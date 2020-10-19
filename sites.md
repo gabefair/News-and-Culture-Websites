@@ -4536,7 +4536,6 @@
  - https://www.nationsonline.org/oneworld/canada.htm
  - https://www.theglobeandmail.com/
  - http://www.cbc.ca/news/
- - http://www.ctv.ca/news
  - https://www.nationsonline.org/oneworld/united_states.htm
  - https://www.nationsonline.org/oneworld/map/google_map_Washington.htm
  - http://www.advocate.com/
@@ -5063,3 +5062,90 @@
  - https://mynorthwest.com/
  - https://mynorthwest.com/category/kiro-radio/
  - https://theanswersandiego.com/
+ - https://945theanswer.com/content/morning-answer-daily
+ - https://945theanswer.com/
+ - https://am1380theanswer.com/
+ - https://560theanswer.com/
+ - https://am970theanswer.com/
+ - https://560theanswer.com/news/regional
+ - https://www.google.com/search?q=Second+American+Civil+War&tbm=nws
+ - https://twitter.com/ElijahSchaffer
+ - https://rollingout.com/
+ - https://rollingout.com/category/news/
+ - https://www.genocidewatch.com/latest-news
+ - https://mississippitoday.org/
+ - https://www.wapt.com/
+ - https://www.wapt.com/local-news
+ - https://www.clarionledger.com/opinion/
+ - https://newsms.fm/
+ - https://www.wlbt.com/community/
+ - https://www.wlbt.com
+ - https://www.world-today-news.com/
+ - https://www.world-today-news.com/category/news/
+ - http://www.news.gov.tt/
+ - https://www.medicineuncensored.com/
+ - https://www.theverge.com/science
+ - https://www.theverge.com/tech
+ - https://www.jacksonville.com/
+ - https://darpanmagazine.com/
+ - https://www.jacksonville.com/opinion/
+ - https://darpanmagazine.com/news/
+ - https://www.theguardian.com/commentisfree/all
+ - https://www.theguardian.com/profile/editorial
+ - https://www.theguardian.com/index/contributors
+ - https://www.theguardian.com/cartoons/archive
+ - https://www.theguardian.com/tone/letters
+ - https://www.theguardian.com/us/culture
+ - https://www.theguardian.com/uk/commentisfree
+ - https://www.theguardian.com/uk/sport
+ - https://www.theguardian.com/uk/culture
+ - https://www.theguardian.com/uk/lifeandstyle
+ - https://www.theguardian.com/uk/environment
+ - https://www.theguardian.com/us/environment
+ - https://www.theguardian.com/international
+ - https://www.theguardian.com/au/environment
+ - https://www.theguardian.com/au
+ - https://www.theguardian.com/us/sport
+ - https://www.theguardian.com/au/commentisfree
+ - https://www.theguardian.com/au/sport
+ - https://www.theguardian.com/au/culture
+ - https://www.theguardian.com/au/lifeandstyle
+ - https://www.mongabay.com/
+ - http://redgreenandblue.org/
+ - https://scroll.in/
+ - https://menafn.com/
+ - https://scroll.in/latest/
+ - https://skepticalscience.com/
+ - https://www.law360.com/
+ - https://www.law360.com/ip
+ - https://www.law360.com/securities
+ - https://www.law360.com/whitecollar
+ - https://www.law360.com/competition
+ - https://www.law360.com/bankruptcy
+ - https://www.law360.com/classaction
+ - https://www.law360.com/internationalarbitration
+ - https://www.law360.com/technology
+ - https://www.law360.com/tax
+ - https://www.law360.com/legalethics
+ - https://www.law360.com/governmentcontracts
+ - https://www.law360.com/trials
+ - https://www.law360.com/environmental
+ - https://www.law360.com/immigration
+ - https://www.law360.co.uk/
+ - https://www.law360.co.uk/financial-services-uk
+ - https://www.law360.co.uk/corporate-crime-uk
+ - https://www.law360.co.uk/commercial-litigation-uk
+ - https://americasvoice.news/
+ - https://www.youtube.com/c/turningpointusa/videos
+ - https://www.cbc.ca/news/opinion
+ - https://kitchener.ctvnews.ca/guelph
+ - https://www.morningbrew.com/daily/stories
+ - https://euvsdisinfo.eu/
+ - https://euvsdisinfo.eu/news/
+ - https://euvsdisinfo.eu/disinfo-review/
+ - https://euvsdisinfo.eu/ru/
+ - https://euvsdisinfo.eu/it/
+ - https://euvsdisinfo.eu/es/
+ - https://euvsdisinfo.eu/fr/
+ - https://euvsdisinfo.eu/de/
+ - https://www.google.com/search?q=hackers&tbm=nws
