@@ -233,7 +233,6 @@
  - https://www.france24.com/en/
  - http://freebeacon.com/
  - http://www.freerepublic.com/home.htm
- - https://www.reddit.com/r/worldpolitics/
  - https://www.reddit.com/r/ConservativeMemes/
  - http://www.hellomagazine.com/
  - http://thehill.com/
@@ -627,19 +626,6 @@
  - https://www.marketwatch.com/investing?mod=top_nav
  - https://www.marketwatch.com/markets?mod=top_nav
  - https://venturebeat.com/
- - https://boards.4channel.org/news/
- - https://boards.4chan.org/b/
- - https://boards.4channel.org/k/
- - https://boards.4channel.org/g/
- - https://boards.4chan.org/r/
- - https://boards.4chan.org/t/
- - https://boards.4chan.org/bant/
- - https://boards.4channel.org/biz/
- - https://boards.4channel.org/his/
- - https://boards.4channel.org/lit/
- - https://boards.4channel.org/wsr/
- - https://boards.4chan.org/pol/
- - https://boards.4chan.org/pol/catalog
  - https://www.producthunt.com/
  - https://slashdot.org/
  - https://slashdot.org/recent
@@ -876,7 +862,6 @@
  - https://therealnews.com/
  - https://therealnews.com/topics/u-s-politics
  - https://therealnews.com/tag/Baltimore
- - https://therealnews.com/regions/middle-east
  - https://therealnews.com/topics/world-politics
  - https://therealnews.com/topics/labor
  - https://therealnews.com/topics/health
@@ -1362,11 +1347,6 @@
  - timesofisrael.com
  - https://www.thestar.com/
  - https://www.cbc.ca/news/local
- - https://www.reddit.com/r/anime_titties/
- - https://www.reddit.com/r/anime_titties/new/
- - https://www.reddit.com/r/anime_titties/top/
- - https://www.reddit.com/r/anime_titties/top/?t=week
- - https://www.reddit.com/r/anime_titties/rising/
  - https://www.reddit.com/r/gatesopencomeonin/
  - https://www.ballisticmag.com/
  - https://www.reddit.com/r/socialism/
@@ -1397,7 +1377,6 @@
  - https://www.reddit.com/r/eulaw/
  - https://www.reddit.com/r/EuropeanFederalists/
  - https://www.reddit.com/r/LeftWithoutEdge/
- - https://www.reddit.com/r/worldpolitics/new
  - https://www.reddit.com/r/Eurosceptics/
  - https://www.reddit.com/r/Eurosceptics/new
  - https://www.reddit.com/r/europeanunion/
@@ -2080,7 +2059,6 @@
  - https://www.web24.news/topics/breaking-news
  - https://rappler.com/
  - https://rappler.com/abs-cbn
- - https://rappler.com/duterte-year-4
  - https://rappler.com/covid-19
  - https://rappler.com/european-union
  - http://www.torontotoday.net/category/local-news/
@@ -2282,6 +2260,7 @@
  - https://www.scmp.com/photos?page=11
  - https://www.scmp.com/photos?page=12
  - https://www.scmp.com/photos?page=13
+ - https://www.scmp.com/photos?page=14
  - https://www.scmp.com/explained
  - https://www.scmp.com/topics/special-reports
  - https://www.scmp.com/magazines/post-magazine/long-reads
@@ -2405,20 +2384,6 @@
  - https://www.rollingstone.com/politics/
  - https://www.goodmorningamerica.com/
  - https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNWpoZxIiUEwzWlE1Q3BOdWxRbUtPUDNJekdsYWN0V1c4dklYX0hFUA%3D%3D
- - https://ifunny.co/
- - https://ifunny.co/digests
- - https://ifunny.co/science-tech
- - https://ifunny.co/politics
- - https://ifunny.co/other
- - https://ifunny.co/memes
- - https://ifunny.co/internet
- - https://ifunny.co/animals-nature
- - https://ifunny.co/anime-manga
- - https://ifunny.co/art-creative
- - https://ifunny.co/cars
- - https://ifunny.co/celebrities
- - https://ifunny.co/gaming/
- - https://ifunny.co/girls/
  - https://www.counterpunch.org/
  - http://techrights.org/?stories
  - https://wjla.com/
@@ -2856,52 +2821,6 @@
  - https://www.lanacion.com.ar/lifestyle
  - https://www.lanacion.com.ar/sociedad
  - https://www.lanacion.com.ar/el-mundo
- - https://www.cityheaven.net/aomori/
- - https://www.cityheaven.net/okayama/
- - https://www.cityheaven.net/shimane/
- - https://www.cityheaven.net/yamaguchi/
- - https://www.cityheaven.net/ehime/
- - https://www.cityheaven.net/saga/
- - https://www.cityheaven.net/kagawa/
- - https://www.cityheaven.net/toyama/
- - https://www.cityheaven.net/gunma/
- - https://www.cityheaven.net/hiroshima/
- - https://www.cityheaven.net/tokushima/
- - https://www.cityheaven.net/kumamoto/
- - https://www.cityheaven.net/kagoshima/
- - https://www.cityheaven.net/miyazaki/
- - https://www.cityheaven.net/niigata/
- - https://www.cityheaven.net/nagano/
- - https://www.cityheaven.net/yamanashi/
- - https://www.cityheaven.net/ishikawa/
- - https://www.cityheaven.net/fukui/
- - https://www.cityheaven.net/aichi/
- - https://www.cityheaven.net/shizuoka/
- - https://www.cityheaven.net/gifu/
- - https://www.cityheaven.net/mie/
- - https://www.cityheaven.net/osaka/
- - https://www.cityheaven.net/hyogo/
- - https://www.cityheaven.net/shiga/
- - https://www.cityheaven.net/kyoto/
- - https://www.cityheaven.net/wakayama/
- - https://www.cityheaven.net/nara/
- - https://www.cityheaven.net/tochigi/
- - https://www.cityheaven.net/saitama/
- - https://www.cityheaven.net/ibaraki/
- - https://www.cityheaven.net/chiba/
- - https://www.cityheaven.net/kanagawa/
- - https://www.cityheaven.net/tokyo/
- - https://www.cityheaven.net/fukushima/
- - https://www.cityheaven.net/yamagata/
- - https://www.cityheaven.net/miyagi/
- - https://www.cityheaven.net/akita/
- - https://www.cityheaven.net/iwate/
- - https://www.cityheaven.net/hokkaido/
- - https://www.cityheaven.net/okinawa/
- - https://www.cityheaven.net/oita/
- - https://www.cityheaven.net/nagasaki/
- - https://www.cityheaven.net/fukuoka/
- - https://www.cityheaven.net/kochi/
  - https://coronavirus.jhu.edu/
  - https://ladailypost.com/
  - https://spacenews.com/
@@ -5149,3 +5068,68 @@
  - https://euvsdisinfo.eu/fr/
  - https://euvsdisinfo.eu/de/
  - https://www.google.com/search?q=hackers&tbm=nws
+ - https://www.inquirer.net/
+ - https://opinion.inquirer.net/
+ - https://newsinfo.inquirer.net/
+ - https://www.efe.com/efe/english/4
+ - https://www.efe.com/efe/espana/1
+ - https://www.efe.com/efe/castillayleon/7
+ - https://www.efe.com/efe/comunitat-valenciana/10
+ - https://www.efe.com/efe/andalucia/12
+ - https://www.efe.com/efe/canarias/14
+ - https://www.efe.com/efe/america/2
+ - https://www.efe.com/efe/brasil/3
+ - https://www.efe.com/efe/portugal/6
+ - https://www.efe.com/efe/usa/5
+ - https://quillette.com/
+ - https://pulitzercenter.org/
+ - https://newrepublic.com/apocalypse-soon
+ - https://newrepublic.com/apocalypse-soon/tags/climate-change
+ - https://newrepublic.com/the-soapbox
+ - https://newrepublic.com/sold-short
+ - https://newrepublic.com/critical-mass
+ - https://milled.com/
+ - https://www.latimes.com/entertainment-arts
+ - https://www.argusleader.com/
+ - https://www.argusleader.com/opinion/
+ - https://tradingeconomics.com/stream
+ - https://melmagazine.com/
+ - https://www.newsleader.com/
+ - https://www.thedailytimes.com/
+ - https://www.thedailytimes.com/opinion/
+ - https://www.bing.com/search?q=war
+ - https://www.bing.com/search?q=civil+war
+ - https://www.bing.com/search?q=American+civil+war
+ - https://www.bing.com/search?q=Second+American+Civil+War
+ - https://www.bing.com/search?q=Climate+Change
+ - https://www.bing.com/search?q=Global+Warmning
+ - https://therealnews.com/category/sections/climate-crisis
+ - https://therealnews.com/category/sections/economy-and-inequality
+ - https://therealnews.com/category/sections/politics-and-movements-international
+ - https://therealnews.com/category/sections/politics-movements-us
+ - https://therealnews.com/category/sections/prisons-and-policing
+ - https://therealnews.com/category/sections/racial-justice
+ - https://therealnews.com/category/sections/baltimore
+ - https://www.bing.com/news/search?q=news+for+you
+ - https://www.bing.com/news/search?q=war
+ - https://www.bing.com/news/search?q=civil+war
+ - https://www.bing.com/news/search?q=American+civil+war
+ - https://www.bing.com/news/search?q=second+american+civil+war
+ - https://www.bing.com/news/search?q=Climate+Change
+ - https://www.bing.com/news/search?q=Global+Warming
+ - https://turnto10.com/
+ - https://turnto10.com/news/local
+ - https://turnto10.com/politics
+ - https://turnto10.com/news/nation-world
+ - https://lancasteronline.com/
+ - https://www.lancasterfarming.com/
+ - https://lancasteronline.com/lavoz/
+ - https://www.wcvb.com/
+ - https://tvnewscheck.com/
+ - https://www.nexttv.com/broadcasting-cable
+ - https://www.nexttv.com/broadcasting-cable/news
+ - https://www.nbcnewyork.com/
+ - https://www.nbcboston.com/
+ - https://www.mcall.com/
+ - https://www.mcall.com/news/local/
+ - https://www.gamesindustry.biz/
