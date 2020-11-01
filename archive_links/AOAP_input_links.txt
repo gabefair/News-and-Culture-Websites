@@ -1,5 +1,5 @@
 http://archive.today/?run=1&url=https://www.buzzfeednews.com
-http://archive.today/?run=1&url=ccn.com
+http://archive.today/?run=1&url=https://www.ccn.com/
 http://archive.today/?run=1&url=cnn.com
 http://archive.today/?run=1&url=https://www.cnn.com/opinions
 http://archive.today/?run=1&url=https://reddit.com
@@ -15,6 +15,7 @@ http://archive.today/?run=1&url=https://www.fastcompany.com
 http://archive.today/?run=1&url=https://news.ycombinator.com
 http://archive.today/?run=1&url=https://www.whitehouse.gov/westwingreads
 http://archive.today/?run=1&url=https://russian.rt.com/
+http://archive.today/?run=1&url=https://www.rt.com/russia/
 http://archive.today/?run=1&url=https://twitchy.com
 http://archive.today/?run=1&url=https://www.dailymail.co.uk/home/index.html
 http://archive.today/?run=1&url=truthout.org
@@ -108,7 +109,6 @@ http://archive.today/?run=1&url=http://www.nytimes.com/
 http://archive.today/?run=1&url=http://www.politico.com/
 http://archive.today/?run=1&url=http://realclearpolitics.com/
 http://archive.today/?run=1&url=http://www.rollcall.com/
-http://archive.today/?run=1&url=http://www.salon.com/
 http://archive.today/?run=1&url=http://news.sky.com/
 http://archive.today/?run=1&url=http://www.slate.com/
 http://archive.today/?run=1&url=https://www.the-sun.com/
@@ -141,7 +141,7 @@ http://archive.today/?run=1&url=https://www.wsj.com/news/politics
 http://archive.today/?run=1&url=http://www.prnewswire.com/news-releases/news-releases-list/
 http://archive.today/?run=1&url=http://www.reuters.com/
 http://archive.today/?run=1&url=http://www.xinhuanet.com/english/world/index.htm
-http://archive.today/?run=1&url=npr.org
+http://archive.today/?run=1&url=https://www.npr.org/
 http://archive.today/?run=1&url=https://www.judicialwatch.org/in-the-news/
 http://archive.today/?run=1&url=https://www.commondreams.org
 http://archive.today/?run=1&url=https://www.dw.com/ro/focus/s-10575
@@ -460,7 +460,6 @@ http://archive.today/?run=1&url=https://www.singpao.com.hk/index.php?fi=news8
 http://archive.today/?run=1&url=https://www.metrodaily.hk/%E8%B2%A1%E7%B6%93/
 http://archive.today/?run=1&url=http://www.takungpao.com/
 http://archive.today/?run=1&url=http://www.dili360.com/
-http://archive.today/?run=1&url=https://google.com
 http://archive.today/?run=1&url=https://www.nfcmag.com/category/17.html
 http://archive.today/?run=1&url=https://www.nfcmag.com/category/37.html
 http://archive.today/?run=1&url=https://www.nfcmag.com/category/2.html
@@ -469,10 +468,11 @@ http://archive.today/?run=1&url=https://www.nfcmag.com/category/5.html
 http://archive.today/?run=1&url=https://www.nfcmag.com/category/39.html
 http://archive.today/?run=1&url=https://www.nfcmag.com/category/4.html
 http://archive.today/?run=1&url=http://zk.nfcmag.com/China/index
+http://archive.today/?run=1&url=https://hk.appledaily.com/
+http://archive.today/?run=1&url=https://hk.appledaily.com/realtime/topUS/
 http://archive.today/?run=1&url=https://hk.appledaily.com/free/investman
-http://archive.today/?run=1&url=https://hk.appledaily.com/free/inonefamily
-http://archive.today/?run=1&url=https://hk.appledaily.com/free/adfundhk
 http://archive.today/?run=1&url=https://hk.appledaily.com/column/index
+http://archive.today/?run=1&url=https://hk.appledaily.com/realtime/us/
 http://archive.today/?run=1&url=https://www.scmp.com/week-asia/politics
 http://archive.today/?run=1&url=https://www.scmp.com/week-asia
 http://archive.today/?run=1&url=http://www.passiontimes.hk/4.0/category/1
