@@ -1,7 +1,9 @@
  - https://www.buzzfeednews.com
- - ccn.com
+ - https://www.ccn.com/
  - cnn.com
  - https://www.cnn.com/opinions
+ - https://www.cnn.com/business
+ - https://www.cnn.com/business/perspectives
  - https://reddit.com
  - https://hotair.com
  - https://www.nytimes.com/
@@ -12,7 +14,6 @@
  - https://newsweek.com
  - time.com
  - https://www.snopes.com/
- - https://www.snopes.com/50-hottest-urban-legends/
  - https://www.snopes.com/whats-new/
  - https://www.snopes.com/fact-check/
  - https://babylonbee.com
@@ -20,6 +21,7 @@
  - https://news.ycombinator.com
  - https://www.whitehouse.gov/westwingreads
  - https://russian.rt.com/
+ - https://www.rt.com/russia/
  - https://twitchy.com
  - https://www.dailymail.co.uk/home/index.html
  - truthout.org
@@ -103,7 +105,6 @@
  - https://mashable.com
  - https://www.wnd.com/
  - https://www.newsmax.com/t/newsmax
- - https://www.motherjones.com/
  - https://www.theblaze.com/
  - https://qz.com/india/
  - old.reddit.com/r/news
@@ -134,7 +135,6 @@
  - https://www.inquisitr.com/
  - https://www.reddit.com/r/CoronavirusCanada/
  - https://www.reddit.com/r/CoronavirusUK/
- - https://washingtonmonthly.com
  - https://www.reddit.com/r/CoronaVirus_2019_nCoV/
  - https://www.reddit.com/r/worldnews/
  - https://www.reddit.com/r/CoronavirusCA/
@@ -163,15 +163,10 @@
  - https://www.judicialwatch.org/
  - https://reason.org/
  - https://www.hoover.org/
- - https://www.heartland.org/
  - https://fedsoc.org/
- - https://www.atlasnetwork.org/
- - https://ij.org/
  - https://americansforprosperity.org/
  - https://www.aei.org/
  - https://www.epi.org/
- - https://www.heritage.org/
- - https://www.brookings.edu/
  - https://www.americanprogress.org/
  - https://forward.com
  - https://www.teenvogue.com/news-politics
@@ -192,14 +187,7 @@
  - https://www.censored.news
  - news.google.com
  - https://spectator.org
- - https://reopennj.com/
- - https://www.pennsylvaniafirearmsassociation.org/
- - https://www.reopenoklahoma.com/
- - https://reopennc.com/
- - https://www.minnesotagunrights.org/
- - https://reopenmaryland.com/
  - https://www.iowagunowners.org/
- - https://ujoin.co/
  - http://www.abcnews.com/
  - https://www.wired.com/
  - https://www.asiatimes.com/
@@ -233,7 +221,6 @@
  - https://www.france24.com/en/
  - http://freebeacon.com/
  - http://www.freerepublic.com/home.htm
- - https://www.reddit.com/r/worldpolitics/
  - https://www.reddit.com/r/ConservativeMemes/
  - http://www.hellomagazine.com/
  - http://thehill.com/
@@ -248,7 +235,6 @@
  - http://www.lucianne.com/
  - https://www.marketwatch.com/
  - http://www.mediaite.com/
- - https://www.dailykos.com/campaigns
  - https://time.com/section/politics/
  - http://www.nationalreview.com/corner
  - http://www.nbcnews.com/
@@ -291,7 +277,6 @@
  - http://www.vanityfair.com/
  - http://www.variety.com/
  - http://online.wsj.com/home-page
- - https://www.philanthropy.com/
  - http://www.washingtonpost.com/
  - https://www.dailykos.com/blogs/recent
  - https://www.youtube.com/user/1americanews/videos
@@ -307,34 +292,23 @@
  - https://www.usatoday.com/news/nation/
  - http://washingtonexaminer.com/politics/washington-secrets
  - http://www.thesun.co.uk/sol/homepage/showbiz/bizarre/
- - https://www.gq.com/gq-recommends
  - https://www.teenvogue.com/
- - http://buchanan.org/blog/columns
  - https://www.bostonherald.com/
  - https://townhall.com/tipsheet/
  - infection2020.com
  - https://twitter.com/gtconway3d
- - https://www.gq.com/culture
- - http://www.anncoulter.com/
  - http://loudobbs.com/
  - https://www.france24.com/ar/
  - https://townhall.com/entertainment
  - https://townhall.com/political-cartoons/
  - http://www.showbiz411.com/
  - https://www.gertzfile.com/
- - https://www.bloomberg.com/hyperdrive
  - https://www.nationalreview.com/economy-business/
- - https://www.reddit.com/r/HongKong/new
- - http://www.thedailybeast.com/author/lloyd-grove/
- - https://www.nytimes.com/by/maggie-haberman
  - http://www.hannity.com/main.html
- - https://www.nationalreview.com/immigration/
  - http://www.hughhewitt.com/
  - https://www.france24.com/es/
- - https://www.gq.com/fitness
  - http://www.lauraingraham.com/
  - http://www.washingtontimes.com/news/inside-the-beltway/
- - https://www.gq.com/about/gqsports
  - http://www.kausfiles.com/
  - https://ians.in/index.php?param=category/26/10003
  - https://ians.in/index.php?param=category/133/10003
@@ -362,17 +336,13 @@
  - http://topics.nytimes.com/top/reference/timestopics/people/r/jim_rutenberg/index.html
  - https://michaelsavage.com/
  - https://www.popsci.com/
- - https://www.vanityfair.com/contributor/gabriel-sherman
- - https://www.nytimes.com/by/ben-smith
  - https://www.theguardian.com/world/iran
- - https://nymag.com/author/andrew-sullivan/
  - https://irannewsdaily.com/
  - https://irannewsdaily.com/category/politics/
  - http://www.jewishworldreview.com/
  - https://www.washingtonexaminer.com/opinion/columnists
  - https://www.washingtonexaminer.com/opinion/editorials
  - http://www.france24.com/en/timeline/global/
- - hulu.com
  - https://ians.in/index.php?param=category/5/5
  - https://www.capitalqueretaro.com.mx/category/nacional/
  - http://www.dpa-international.com/news/international/
@@ -390,11 +360,8 @@
  - http://www.xinhuanet.com/english/world/index.htm
  - http://www.upi.com/NewsTrack/
  - http://english.yonhapnews.co.kr/
- - qq.com
- - http://www.midweststrategy.com/
- - https://thesoutherngroup.com/
  - people.com
- - npr.org
+ - https://www.npr.org/
  - https://www.judicialwatch.org/in-the-news/
  - https://www.judicialwatch.org/tipsheets/
  - https://www.commondreams.org
@@ -432,7 +399,6 @@
  - https://weibo.com/us
  - https://www.altnews.in/
  - https://healthfeedback.org/
- - https://www.amnesty.org/en/
  - https://www.amnesty.org/en/latest/news/
  - https://www.mediamatters.org/
  - http://8columnas.com.mx/
@@ -518,7 +484,6 @@
  - https://o.canada.com/category/news
  - https://o.canada.com/
  - http://www.animalplanet.ca/
- - https://jacobinmag.com/
  - http://www.canald.com/
  - http://www.canalvie.com/
  - http://www.cftktv.com/
@@ -529,29 +494,9 @@
  - https://news.ycombinator.com/newest
  - http://www.thecomedynetwork.ca/
  - http://www.bravo.ca/
- - http://www.gustotv.com/
- - https://www.ctvnews.ca/
  - http://www.space.ca/
- - http://www.ctv.ca/
- - http://www.discovery.ca/
- - http://www.sciencechannel.ca/
- - http://www.discoveryvelocity.ca/
- - http://ca.eonline.com/
- - http://www.tsn.ca/classic/
- - http://www.fashiontelevision.com/
- - http://www.hbocanada.com/
- - http://www.investigationtele.com/
- - http://www.investigationdiscovery.ca/
- - http://www.mtv.ca/
- - https://www.newscientist.com/section/news/
  - http://www.muchmusic.com/
- - http://www.rds.ca/
- - http://www.rdsinfo.ca/
- - https://theweeklylist.org/
- - https://time.com/tag/hong-kong/
  - http://www.tsn.ca/
- - http://www.vrak.tv/
- - http://www.ztele.com/
  - https://www.independent.co.uk/topic/Canada
  - https://www.theguardian.com/world/canada
  - https://canoe.com/category/news/national
@@ -598,15 +543,12 @@
  - https://www.weibo.com/
  - https://www.abacusnews.com/china-tech-city
  - https://www.abacusnews.com/
- - https://www.abacusnews.com/culture
  - https://www.reddit.com/r/news/gilded/
- - https://www.reddit.com/r/politics/
  - https://www.reddit.com/r/politics/gilded/
  - https://www.baltimoresun.com/
  - http://www.xinhuanet.com/
  - http://www.xinhuanet.com/english/cnleaders/xistime/
  - https://www.reddit.com/domain/commondreams.org/
- - http://feeds.feedburner.com/zerohedge/feed
  - https://www.reddit.com/domain/foxnews.com/
  - https://vietnaminsider.vn/
  - https://vietnamnews.vn/
@@ -652,7 +594,6 @@
  - https://www.chinadailyhk.com/index.html
  - http://cdlifestylepremium.com/
  - https://www.reddit.com/r/conspiracytheories/
- - https://www.reddit.com/r/conspiracytheories/gilded/
  - https://www.reddit.com/r/conspiracy/
  - https://www.reddit.com/r/conspiracy/gilded/
  - nbc.com
@@ -667,7 +608,6 @@
  - https://www.aol.com/
  - https://www.yahoo.com/
  - https://www.oann.com/category/tech/
- - https://www.oann.com/category/money/
  - https://www.oann.com/category/economy/
  - https://www.oann.com/category/business/
  - https://www.oann.com/category/world/
@@ -679,7 +619,6 @@
  - https://www.fxstreet.com/news
  - https://news.bloomberglaw.com/international-trade
  - https://www.investopedia.com/trading-news-4689736
- - https://www.investopedia.com/company-news-4427705
  - https://www.investopedia.com/markets-news-4427704
  - https://www.investopedia.com/political-news-4689737
  - https://www.investopedia.com/trends-4689735
@@ -718,7 +657,6 @@
  - https://patriotpost.us/headlines
  - https://patriotpost.us/articles
  - https://patriotpost.us/cartoons
- - https://www.essence.com/
  - https://www.pbs.org/newshour/
  - https://www.pasadenastarnews.com/
  - http://kymkemp.com/
@@ -743,44 +681,27 @@
  - http://yp.scmp.com/
  - http://www.esquirehk.com/
  - http://www.elle.com.hk/
- - http://www.cosmopolitan.com.hk/
  - http://www.ays.com.hk/
  - https://www.goldthread2.com/
- - https://www.inkstonenews.com/
- - https://www.esquirehk.com/culture
- - https://www.goldthread2.com/culture
- - https://www.scientificamerican.com/
- - https://www.csmonitor.com/Environment
- - https://www.csmonitor.com/Science
- - https://www.csmonitor.com/Commentary
- - https://www.csmonitor.com/USA/Justice
  - https://www.csmonitor.com/USA/Politics
  - https://www.csmonitor.com/World/Progress-Watch
  - https://www.csmonitor.com/World/Making-a-difference
  - https://www.csmonitor.com/World
  - https://tonyortega.org/scientology/
  - https://tonyortega.org/
- - https://www.scientologynews.org/
- - https://www.tampabay.com/
  - https://www.tampabay.com/opinion/
  - https://thehustle.co/episodes/
  - https://www.statnews.com/
  - https://www.statnews.com/category/first-opinion/
  - https://www.statnews.com/category/the-regulars/pharmalot-view/
  - https://www.statnews.com/category/adams-take/
- - https://www.statnews.com/most-popular/
  - https://www.uspharmacist.com/
  - espn.com
- - https://apnews.com/Journalism
- - https://apnews.com/APFactCheck
  - https://apnews.com/apf-entertainment
- - https://apnews.com/apf-sports
  - https://apnews.com/ViralQuestions
- - https://apnews.com/hub/press-releases/wired-release
  - https://www.bleepingcomputer.com/
  - https://www.dailykos.com/
  - https://www.spiegel.de/international/world/
- - https://www.spiegel.de/international/europe/
  - https://www.spiegel.de/international/germany/
  - https://www.spiegel.de/
  - https://www.spiegel.de/international/business/
@@ -801,14 +722,12 @@
  - https://observer.com/tag/coronavirus/
  - https://observer.com/tag/trump/
  - https://climaterealism.com/
- - https://www.thebellows.org/
  - http://www.frontpagemag.com/
  - https://climateataglance.com/
  - https://www.foxnews.com/opinion
  - https://twitchy.com/tag/2016-campaign/
  - https://twitchy.com/tag/2016-election
  - https://twitchy.com/tag/abortion/
- - https://twitchy.com/tag/alexandria-ocasio-cortez/
  - https://twitchy.com/tag/barack-obama/
  - https://twitchy.com/tag/benghazi/
  - https://twitchy.com/tag/bernie-sanders/
@@ -864,43 +783,24 @@
  - https://jezebel.com/c/video
  - https://www.avclub.com/
  - https://deadspin.com
- - https://gizmodo.com/
  - https://jalopnik.com/
  - https://kotaku.com/
  - https://lifehacker.com/
  - https://thetakeout.com/
  - bing.com
  - https://bing.com/covid?form=COVD07
- - https://www.elfinanciero.com.mx/estados
- - https://www.reddit.com/r/politics/new
- - https://therealnews.com/
  - https://therealnews.com/topics/u-s-politics
- - https://therealnews.com/tag/Baltimore
  - https://therealnews.com/topics/world-politics
  - https://therealnews.com/topics/labor
  - https://therealnews.com/topics/health
  - https://therealnews.com/topics/general-news
- - https://therealnews.com/topics/environment
- - https://therealnews.com/topics/education
  - https://therealnews.com/topics/economy
  - https://babylonbee.com/news/categories/politics
  - https://babylonbee.com/news/categories/buzzing
  - https://babylonbee.com/news/categories/celebs
  - https://babylonbee.com/news/categories/opinion
  - https://babylonbee.com/news/categories/sponsored
- - https://babylonbee.com/news/categories/us
  - https://babylonbee.com/news/categories/worldviews
- - https://babylonbee.com/news/categories/whatever
- - https://babylonbee.com/news/categories/world
- - https://babylonbee.com/news/categories/op-ed
- - https://www.startribune.com/
- - https://twitchy.com/category/us-politics/
- - https://twitchy.com/category/media/
- - https://twitchy.com/category/entertainment/
- - https://twitchy.com/page/political-cartoons/
- - https://www.pilotonline.com/
- - https://www.pilotonline.com/opinion#nt=trendingbar
- - https://www.pilotonline.com/news#nt=trendingbar
  - https://www.pilotonline.com/sports#nt=trendingbar
  - https://www.pilotonline.com/coronavirus#nt=trendingbar
  - https://www.legacy.com/obituaries/pilotonline/
@@ -908,9 +808,7 @@
  - https://www.wnd.com/category/front-page/politics/
  - https://www.startribune.com/opinion/
  - https://www.thetrumpet.com/more/society
- - https://abovethelaw.com/biglaw/
  - https://abovethelaw.com/small-law-firms/
- - https://www.ourmidland.com/
  - https://www.ourmidland.com/coronavirus/
  - https://www.ourmidland.com/opinion/
  - https://heavy.com/
@@ -928,7 +826,6 @@
  - https://midan.aljazeera.net/
  - https://blogs.aljazeera.net/
  - https://www.aljazeera.net/news/politics
- - https://www.nationalenquirer.com/celebrity/
  - https://www.nationalenquirer.com/gossip/
  - https://www.nationalenquirer.com/true-crime/
  - https://www.nationalenquirer.com/eyewitness/
@@ -944,8 +841,6 @@
  - https://www.mcsweeneys.net/
  - https://www.taipeitimes.com/
  - https://www.taipeitimes.com/News/taiwan
- - https://www.taipeitimes.com/News/editorials
- - https://www.desmogblog.com/
  - taiwannews.com.tw
  - https://www.taiwannews.com.tw/en/index
  - https://www.taiwannews.com.tw/ch/index
@@ -984,7 +879,6 @@
  - https://www.eater.com/
  - https://nymag.com/intelligencer/
  - https://www.vox.com/recode
- - https://nymag.com/strategist/
  - https://www.vulture.com/
  - https://www.grubstreet.com/
  - https://www.thecut.com/
@@ -1010,8 +904,6 @@
  - https://www.reddit.com/r/random/top
  - https://www.reddit.com/r/random/rising
  - https://www.reddit.com/r/random/controversial
- - https://www.reddit.com/r/random/top/?sort=top&t=week
- - https://www.reddit.com/r/random/top/?sort=top&t=month
  - https://www.foxbusiness.com/
  - https://www.foxbusiness.com/money
  - https://www.reddit.com/r/news/
@@ -1020,7 +912,6 @@
  - https://www.reddit.com/r/news/rising
  - https://www.reddit.com/r/news/controversial
  - https://www.reddit.com/r/news/top/?sort=top&t=week
- - https://www.reddit.com/r/news/top/?sort=top&t=month
  - https://www.newsy.com/
  - https://www.triplem.com.au/news
  - https://www.triplem.com.au/news/melbourne
@@ -1043,7 +934,6 @@
  - https://www.sbs.com.au/news/latest
  - https://www.sbs.com.au/news/topic/coronavirus-covid-19
  - https://www.sbs.com.au/news/topic/australia
- - https://www.sbs.com.au/news/topic/world
  - https://www.sbs.com.au/news/videos
  - https://www.sbs.com.au/news/dateline/
  - https://www.sbs.com.au/news/insight/
@@ -1057,7 +947,6 @@
  - https://7news.com.au/news/qld
  - https://7news.com.au/news/sa
  - https://7news.com.au/news/wa
- - https://7news.com.au/news/act
  - https://7news.com.au/news/tas
  - https://7news.com.au/news/nt
  - https://7news.com.au/politics/federal-politics
@@ -1089,10 +978,6 @@
  - https://7news.com.au/lifestyle
  - https://www.marketplace.org/
  - https://dailycaller.com/section/politics/
- - https://dailycaller.com/section/us/
- - https://dailycaller.com/section/world/
- - https://dailycaller.com/section/opinion/
- - https://dailycaller.com/section/patriots/
  - https://www.newstatesman.com/international
  - https://www.newstatesman.com/uk
  - https://www.newstatesman.com/international/politics
@@ -1108,7 +993,6 @@
  - https://decrypt.co/news
  - https://boingboing.net/
  - https://newatlas.com/
- - https://www.govtech.com/
  - https://www.thedrive.com/
  - https://grist.org/
  - https://news.yahoo.com/us/
@@ -1210,9 +1094,7 @@
  - https://www.indiatimes.com/trending/human-interest
  - https://www.indiatimes.com/trending/wtf
  - https://www.indiatimes.com/trending/social-relevance
- - https://timesofindia.indiatimes.com/us
  - https://timesofindia.indiatimes.com/?loc=in
- - https://timesofindia.indiatimes.com/toi-plus
  - https://timesofindia.indiatimes.com/videos
  - https://timesofindia.indiatimes.com/videos/trending-videos
  - https://timesofindia.indiatimes.com/india/opinions-and-features
@@ -1295,77 +1177,15 @@
  - http://redstatewatcher.com/news.asp
  - http://redstatewatcher.com/trending.asp
  - https://www.opensecrets.org/news/
- - https://www.chicagoreader.com/
- - https://gothammag.com/
- - Netflix.com
- - https://www.citizen.org/
- - https://www.360.org/
  - https://www.greenpeace.org/international/
  - https://www.greenpeace.org/usa/
  - https://www.greenpeace.org/global/
  - https://www.sierraclub.org/
  - http://www.climatenetwork.org/
  - https://www.worldwildlife.org/
- - https://www.unicef.org/
- - https://www.unicefusa.org/
- - https://www.transparency.org/en/
- - https://www.transparency.org/en/news
- - https://seashepherd.org/
- - https://www.msf.org/
- - https://www.doctorswithoutborders.org/
- - https://www.oxfamamerica.org/
- - https://www.oxfam.org/
- - https://www.peta.org/
- - https://en.unesco.org/
- - https://www.savethechildren.org/
- - https://www.nature.org
- - https://www.edf.org/
- - http://www.fao.org/
- - https://www.nrdc.org/
- - https://www.wvi.org/
- - https://www.worldvision.org/
- - https://abraceobrasil.org/
- - https://www.sosma.org.br/
- - https://www.ucsusa.org/
- - https://en.emergency.it/
- - https://www.emergencyusa.org/
- - https://www2.cruzroja.es/
- - https://www.greenpeace.org/canada/
- - https://www.icrc.org/en
- - https://www.greenpeace.org/africa/fr/
- - https://www.greenpeace.org/argentina/
- - https://www.greenpeace.org.au/
- - https://news.greenpeace.at/
- - https://www.greenpeace.org/belgium/fr/
- - https://www.greenpeace.org/belgium/nl/
- - https://www.greenpeace.org/brasil/
- - https://www.greenpeace.org/bulgaria/
- - https://www.greenpeace.org/finland/
- - https://www.greenpeace.fr/
- - https://www.greenpeace.de/
- - https://www.greenpeace.org/greece/
- - https://www.greenpeace.org/greenland/da/
- - https://www.greenpeace.org/hungary/
- - https://www.greenpeace.org/india/en/
- - https://www.greenpeace.org/india/hi/
- - https://www.greenpeace.org/nl
- - https://www.greenpeace.org/new-zealand/
- - https://www.greenpeace.org/norway/
- - https://www.greenpeace.org/peru/
- - https://www.greenpeace.org/philippines/
- - https://www.greenpeace.org/poland/
- - https://www.greenpeace.org/romania/
- - https://greenpeace.ru/
- - https://www.greenpeace.org.uk/
- - https://www.latimes.com/opinion
- - charlottemagazine.com
- - timesofisrael.com
- - https://www.thestar.com/
- - https://www.cbc.ca/news/local
  - https://www.reddit.com/r/anime_titties/
  - https://www.reddit.com/r/anime_titties/new/
  - https://www.reddit.com/r/anime_titties/top/
- - https://www.reddit.com/r/anime_titties/top/?t=week
  - https://www.reddit.com/r/anime_titties/rising/
  - https://www.reddit.com/r/gatesopencomeonin/
  - https://www.ballisticmag.com/
@@ -1457,7 +1277,6 @@
  - https://theoutline.com/topic/power
  - https://theoutline.com/topic/culture
  - https://fstoppers.com/
- - nationalizeamazon.com
  - https://www.thenews.com.pk/
  - https://www.dawn.com/
  - https://tribune.com.pk/pakistan/
@@ -1469,8 +1288,6 @@
  - https://www.atheists.org/
  - https://www.atheists.org/news/
  - http://muslimnews.co.uk/
- - https://www.reddit.com/r/uspolitics/
- - https://www.reddit.com/r/uspolitics/gilded/
  - https://www.reddit.com/r/uspolitics/new/
  - https://www.reddit.com/r/uspolitics/top/
  - https://www.reddit.com/r/uspolitics/top/?sort=top&t=week
@@ -1478,9 +1295,6 @@
  - https://www.reddit.com/r/egg_irl/
  - https://www.reddit.com/r/Keep_Track/
  - https://www.reddit.com/r/Keep_Track/new/
- - https://www.reddit.com/r/Keep_Track/rising/
- - https://www.reddit.com/r/Keep_Track/gilded/
- - https://www.themarshallproject.org/
  - https://www.themarshallproject.org/tag/news
  - https://www.prisonpolicy.org/
  - https://www.change.org/
@@ -1513,13 +1327,10 @@
  - https://www.c-span.org/series/?campaign
  - https://www.c-span.org/series/?ahtv
  - https://www.c-span.org/series/?bookTv
- - https://www.c-span.org/series/?communicators
  - https://www.c-span.org/series/?inDepth
  - https://www.c-span.org/series/?newsmakers
  - https://www.c-span.org/series/?theSenate
  - https://www.c-span.org/series/?washingtonJournal
- - https://www.reddit.com/r/bestof/
- - https://www.reddit.com/r/bestof/gilded/
  - https://www.reddit.com/r/bestofTLDR/
  - https://www.dailydot.com/
  - https://www.dailydot.com/topics/debug/
@@ -1552,7 +1363,6 @@
  - https://digg.com/video
  - https://digg.com/digg-picks
  - https://www.freethink.com/
- - https://bigthink.com/
  - https://japantoday.com/
  - https://www.japantimes.co.jp/
  - https://www.japantimes.co.jp/news/
@@ -1560,12 +1370,7 @@
  - https://www.japantimes.co.jp/news/world/
  - https://www.japantimes.co.jp/news/national/
  - https://japantoday.com/category/features/opinions
- - https://www.instagram.com/teenvogue/
  - https://twitter.com/TeenVogue
- - https://www.teenvogue.com/fashion
- - https://www.teenvogue.com/entertainment
- - https://www.teenvogue.com/wellness
- - https://www.teenvogue.com/sitemap
  - https://www.prageru.com/
  - https://www.local10.com/
  - https://www.afpbb.com/subcategory/special_gallery?cx_part=nav
@@ -1574,23 +1379,10 @@
  - http://www.cfequality.org/issues/news/
  - https://www.hrc.org/
  - https://educationalequity.org/blog
- - https://uaw.org/news/
- - https://uaw.org
- - https://www.severe-weather.eu/
- - https://www.dailykos.com/blogs/recommended
- - https://www.afpbb.com/subcategory/LatinAmerica
- - https://www.afpbb.com/subcategory/NorthAmerica
- - https://www.afpbb.com/subcategory/Asia-Oceania
  - https://www.afpbb.com/subcategory/Korea-NorthKorea
- - https://www.afpbb.com/subcategory/China-Taiwan?cx_part=nav
  - https://www.afpbb.com/subcategory/Russia-CIS
- - https://www.afpbb.com/subcategory/MiddleEast-NorthAfrica
- - https://www.afpbb.com/subcategory/Africa
  - https://www.afpbb.com/subcategory/Europe
- - https://voat.co/
  - https://voat.co/new
- - https://voat.co/top
- - https://voat.co/top?span=week
  - https://voat.co/v/all/new
  - https://www.nacion.com/
  - https://twitter.com/Bopinion
@@ -1623,22 +1415,14 @@
  - https://www.inverse.com/
  - https://www.freethechildrenus.org/bulletins-blog
  - https://www.tesmanian.com/
- - https://www.tesmanian.com/blogs/tesmanian-blog
- - https://www.ecohealthalliance.org/updates
- - https://www.nih.gov/news-events/news-releases
- - https://www.sfchronicle.com/
- - https://www.sfchronicle.com/coronavirus/
  - https://www.sfchronicle.com/opinion/
  - https://www.sfchronicle.com/us-world/
- - https://www.sfchronicle.com/culture/
  - https://www.sfchronicle.com/business/
  - https://www.sfchronicle.com/sports/
  - https://www.sfchronicle.com/local/
  - https://www.sfchronicle.com/food/
  - https://www.sfchronicle.com/politics/
- - https://www.reddit.com/r/republicanmemes/
  - https://loweringthebar.net/category/miscellaneous
- - https://loweringthebar.net/
  - https://loweringthebar.net/category/civil
  - https://loweringthebar.net/category/criminal
  - https://loweringthebar.net/category/government
@@ -1650,8 +1434,6 @@
  - https://www.openriskmanual.org
  - https://popular.info/p/
  - https://popular.info/
- - https://threadreaderapp.com/
- - https://ebwiki.org/
  - https://progressive.org/
  - https://progressive.org/public-school-shakedown
  - https://progressive.org/covid-19
@@ -1669,7 +1451,6 @@
  - https://www.jpost.com/ifcj
  - https://www.jpost.com/judaism
  - https://www.jpost.com/Arab-Israeli-Conflict/gaza-news
- - https://www.jpost.com/BDS-THREAT
  - https://www.jpost.com/Diaspora/Antisemitism
  - https://www.jpost.com/omg
  - https://www.jpost.com/HEALTH-SCIENCE
@@ -1690,7 +1471,6 @@
  - https://www.pheneovate.com/news-notes
  - https://ledesk.ma/
  - https://ledesk.ma/grandangle/
- - https://ledesk.ma/culture/
  - https://ledesk.ma/encontinu/
  - https://ledesk.ma/newsroom/
  - https://ledesk.ma/enoff/
@@ -1701,7 +1481,6 @@
  - https://ledesk.ma/arabia/
  - https://ledesk.ma/edition-abonnes/
  - https://www.pcmag.com/
- - https://www.reddit.com/r/BreadTube/gilded/
  - https://www.reddit.com/r/BreadTube/
  - https://forbiddenstories.org/
  - https://factuel.afp.com/
@@ -1717,7 +1496,6 @@
  - https://periksafakta.afp.com/
  - https://semakanfakta.afp.com/
  - https://sprawdzam.afp.com/
- - https://cinjenice.afp.com/
  - https://fakty.afp.com/
  - https://factcheckthailand.afp.com/
  - https://www.picuki.com/trending
@@ -1787,7 +1565,6 @@
  - https://www.theregister.com/science/
  - https://www.theregister.com/software/
  - https://www.theregister.com/data_centre/networks/
- - https://www.theregister.com/business/
  - https://www.theregister.com/bootnotes/
  - https://www.theregister.com/emergent_tech/
  - https://devclass.com/
@@ -1894,20 +1671,6 @@
  - https://www.globalpolicyjournal.com/articles/browse/subject/list/25
  - https://www.globalpolicyjournal.com/articles/browse/subject/list/26
  - https://www.inopressa.ru/
- - https://www.inopressa.ru/today
- - https://www.inopressa.ru/rubrics/russia
- - https://www.inopressa.ru/rubrics/analytics
- - https://www.inopressa.ru/rubrics/peace
- - https://www.inopressa.ru/pwa
- - https://www.inopressa.ru/rubrics/science
- - https://inosmi.ru/
- - https://inosmi.ru/today/
- - https://riarating.ru/
- - https://realty.ria.ru/
- - https://rsport.ria.ru/
- - https://1prime.ru/
- - https://ria.ru/
- - https://smi2.ru/
  - https://smi2.ru/newdata/adpreview
  - https://lady.smi2.ru/
  - https://news.net.finam.ru/newdata/adpreview
@@ -1985,7 +1748,6 @@
  - https://www.am730.com.hk/news/Family
  - https://www.am730.com.hk/news/Workplace
  - https://www.mingpao.com/
- - https://news.mingpao.com/pns/%E6%98%8E%E5%A0%B1%E6%96%B0%E8%81%9E%E7%B6%B2/main
  - https://www.mpfinance.com/fin/main.php
  - https://news.mingpao.com/ins/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/main
  - https://ol.mingpao.com/ldy/main.php
@@ -2022,18 +1784,15 @@
  - https://chinadigitaltimes.net/china/longform/
  - https://chinadigitaltimes.net/china/sensitive-words-series/
  - https://chinadigitaltimes.net/china/drawing-the-news/
- - https://chinadigitaltimes.net/china/word-of-the-week/
  - https://chinadigitaltimes.net/china-news/focus/environmental-crisis/
  - https://chinadigitaltimes.net/china/netizen-voices/
  - https://chinadigitaltimes.net/china-news/focus/information-revolution/
  - https://chinadigitaltimes.net/china-news/focus/human-rights/
  - https://chinadigitaltimes.net/china-news/main/economy/
- - https://chinadigitaltimes.net/china-news/main/sci-tech/
  - https://chinadigitaltimes.net/china-news/main/hong-kong/
  - https://chinadigitaltimes.net/china-news/main/taiwan/
  - https://chinadigitaltimes.net/china-news/main/cdt-bookshelf/
  - https://chinadigitaltimes.net/china-news/focus/the-great-divide/
- - https://chinadigitaltimes.net/space/index.php?title=Grass-Mud_Horse_Lexicon:_Pinyin_Index&args=
  - https://chinadigitaltimes.net/space/Main_Page
  - https://chinadigitaltimes.net/chinese/
  - https://chinadigitaltimes.net/space/%E8%81%94%E5%90%88%E5%9B%BD
@@ -2042,8 +1801,6 @@
  - https://chinadigitaltimes.net/space/CDS%E4%B8%93%E9%A1%B5%EF%BC%9A%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93
  - https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9
  - https://chinadigitaltimes.net/space/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B
- - https://chinadigitaltimes.net/space/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1
- - https://chinadigitaltimes.net/chinese/category/%e2%9d%80%e5%86%85%e5%ae%b9ii%ef%bc%9a%e9%98%bb%e5%87%bb%e6%9e%81%e6%9d%83/%e4%bc%97%e5%a3%b0%e5%96%a7%e5%93%97/
  - https://chinadigitaltimes.net/space/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
  - https://chinadigitaltimes.net/space/%E4%BA%94%E6%AF%9B
  - https://chinadigitaltimes.net/space/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88
@@ -2055,25 +1812,13 @@
  - https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
  - https://www.ifanqiang.com/
  - https://zh.greatfire.org/
- - https://www.propublica.org/newsapps/
  - http://dongtaiwang.com/loc/phome.php?v=0
- - https://freeweibo.com/
- - https://forums.internetfreedom.org/index.php?board=2.0
  - http://wujieliulan.com/
- - https://forums.internetfreedom.org/index.php?board=7.0
- - https://forums.internetfreedom.org/index.php?board=8.0
- - singtao.com
  - https://www.singtaousa.com/
- - https://std.stheadline.com/politics/%E6%94%BF%E6%B2%BB
- - https://std.stheadline.com/realtime/%E5%8D%B3%E6%99%82
  - https://std.stheadline.com/daily/%E6%97%A5%E5%A0%B1
- - https://std.stheadline.com/education/%E6%95%99%E8%82%B2
  - https://std.stheadline.com/
  - https://std.stheadline.com/kol
- - https://std.stheadline.com/exclusive/%E7%8D%A8%E5%AE%B6
- - https://std.stheadline.com/property/%E5%9C%B0%E7%94%A2
  - https://std.stheadline.com/racing/%E9%A6%AC%E7%B6%93
- - https://std.stheadline.com/supplement/%E5%89%AF%E5%88%8A
  - https://www.nextdigital.com.hk/
  - https://hk.nextmgz.com/
  - https://www.web24.news/
@@ -2083,14 +1828,8 @@
  - https://rappler.com/covid-19
  - https://rappler.com/european-union
  - http://www.torontotoday.net/category/local-news/
- - http://www.torontotoday.net/category/national/
  - http://www.torontotoday.net/category/international/
  - https://www.azcentral.com/
- - https://www.azcentral.com/local/
- - https://www.azcentral.com/politics/
- - https://www.usatoday.com/border-wall/
- - https://www.usatoday.com/elections/
- - https://quincyinst.org/
  - https://responsiblestatecraft.org/
  - https://inside.com/lists/daily/recent_issues
  - https://inside.com/lists/meditation/recent_issues
@@ -2109,49 +1848,14 @@
  - https://inside.com/lists/xr/recent_issues
  - https://inside.com/lists/compliance/recent_issues
  - https://inside.com/lists/evs/recent_issues
- - https://findsomethingnew.org/
- - https://harpers.org/
- - https://www.atlantamagazine.com/
- - https://www.brainpickings.org/
- - https://www.insidehook.com/
- - https://www.insidehook.com/category/cities/washington-dc
- - https://www.insidehook.com/category/cities/chicago
- - https://www.insidehook.com/category/cities/los-angeles
- - https://www.insidehook.com/category/cities/new-york
- - https://www.insidehook.com/category/cities/san-francisco
- - https://www.duzhe.com
- - http://m.caijing.com.cn
- - http://english.caijing.com.cn/
- - https://www.caijing.com.cn/
- - https://deadline.com/
- - https://consortiumnews.com/
- - https://www.leftvoice.org/
- - https://www.leftvoice.org/category/guest-posts
- - https://www.leftvoice.org/category/ideas-debates
  - https://www.leftvoice.org/category/gender-sexuality
  - https://www.leftvoice.org/category/united-states
- - https://www.leftvoice.org/category/labor-movement
- - https://www.leftvoice.org/category/latin-america
- - https://www.leftvoice.org/category/europe
- - https://www.leftvoice.org/category/middle-east-africa
- - https://www.leftvoice.org/category/asia-pacific
- - http://www.laizquierdadiario.com/
- - http://www.laizquierdadiario.com.uy/Uruguay
  - http://www.laizquierdadiario.mx/Mexico
  - http://www.izquierdadiario.es/ES
  - https://www.esquerradiari.cat/
  - http://www.revolutionpermanente.fr/
  - https://www.klassegegenklasse.org/
  - https://www.lavocedellelotte.it/
- - http://www.laizquierdadiario.com.bo/Bolivia
- - http://www.laizquierdadiario.com.ve/Venezuela
- - http://www.laizquierdadiario.pe/Peru
- - https://www.thelovepost.global/
- - https://www.thelovepost.global/identity
- - https://www.thelovepost.global/sustenance
- - https://www.thelovepost.global/protection
- - https://www.thelovepost.global/perspective
- - https://www.thelovepost.global/pandemic-speaks
  - https://asiatimes.com/china/
  - https://asiatimes.com/north-east-asia/
  - https://asiatimes.com/southeast-asia/
@@ -2164,11 +1868,6 @@
  - https://www.eenews.net/
  - https://www.eenews.net/ew
  - https://www.eenews.net/cw
- - https://www.eenews.net/eed
- - https://www.eenews.net/gw
- - https://www.eenews.net/pm
- - https://eand.co/
- - https://www.yzzk.com/
  - https://www.yzzk.com/article/%E7%89%B9%E7%A8%BF
  - https://www.yzzk.com/article/%E4%B8%AD%E8%8F%AF%E5%A4%A9%E5%9C%B0
  - https://www.yzzk.com/article/%E4%BA%9E%E6%B4%B2%E7%84%A6%E9%BB%9E
@@ -2187,7 +1886,6 @@
  - https://www.metrodaily.hk/%E5%A8%9B%E6%A8%82/
  - https://www.metrodaily.hk/%E8%B2%A1%E7%B6%93/
  - https://www.metrodaily.hk/%E5%89%AF%E5%88%8A/
- - https://www.metrodaily.hk/%E5%B0%88%E6%AC%84%E4%BD%9C%E5%AE%B6/
  - http://www.takungpao.com.hk/
  - http://www.takungpao.com/
  - http://www.dili360.com/
@@ -2199,12 +1897,6 @@
  - http://www.hkcd.com/caijing.html
  - http://www.hkcd.com/videopage.html
  - http://www.hkcd.com/morningPaper.html
- - http://www.hkcd.com/chanjing.html
- - http://www.hkcd.com/keji.html
- - http://www.hkcd.com/wenhua.html
- - http://www.hkcd.com/zhaoshang.html
- - https://hkcd.com/ztdwq.html
- - https://hkcd.com/local.html
  - https://google.com
  - https://www.nfcmag.com/
  - https://www.nfcmag.com/category/10.html
@@ -2222,40 +1914,20 @@
  - https://www.nfcmag.com/category/45.html
  - http://zk.nfcmag.com/China/index
  - https://apple.com
- - https://www.microsoft.com/en-us/
  - https://tesla.com
+ - https://www.deluxe.com.hk/Beauty
+ - https://www.deluxe.com.hk/Lifestyle
+ - https://www.deluxe.com.hk/Celebrity
  - https://hk.appledaily.com/
- - https://www.scmp.com/hk
  - https://hk.appledaily.com/realtime/topUS/
- - https://hk.appledaily.com/realtime/entertainment/
- - https://hk.news.appledaily.com/realtime/breaking/
- - www.tomonews.com
- - https://us.tomonews.com/newsfeed
- - https://hk.appledaily.com/engnews/
- - https://hk.entertainment.appledaily.com/daily/entertainment/
- - https://hk.feature.appledaily.com/wars
- - https://hk.feature.appledaily.com/goodestchannel
- - https://hk.news.appledaily.com/video/entertainment/
- - https://privilegehk.appledaily.com/
- - https://hk.appledaily.com/trending/index
- - https://hk.appledaily.com/free/carman
- - https://hk.news.appledaily.com/daily/local/
- - https://hk.appledaily.com/daily/local/
  - https://hk.appledaily.com/free/investman
  - https://hk.appledaily.com/free/inonefamily
  - https://hk.appledaily.com/free/adfundhk
- - https://www.deluxe.com.hk/Beauty
  - https://hk.appledaily.com/column/index
- - https://hk.video.appledaily.com/actionnews/index/
  - https://hk.sports.appledaily.com/daily/sports/
  - https://hk.finance.appledaily.com/daily/finance/
  - https://hk.news.appledaily.com/daily/international/
  - https://hk.appledaily.com/realtime/us/
- - https://www.deluxe.com.hk/Celebrity
- - https://www.deluxe.com.hk/Lifestyle
- - https://hk.appledaily.com/hknsl/
- - https://hk.news.appledaily.com/apple/index/45
- - https://www.scmp.com/asia
  - https://www.scmp.com/week-asia/politics
  - https://www.scmp.com/week-asia
  - https://www.scmp.com/week-asia/economics
@@ -2300,18 +1972,10 @@
  - https://inews.hket.com/sran001/%E5%85%A8%E9%83%A8
  - https://paper.hket.com/srap025/全部
  - https://www2.hkej.com/landing/index
- - https://www2.hkej.com/instantnews
- - https://hkejpublishing.hkej.com/
- - https://iknow.hkej.com/php/index.php
- - https://www.ejinsight.com/
- - https://lj.hkej.com/
- - https://monthly.hkej.com/
- - https://stock360.hkej.com/
  - https://www.ejfq.com/home.htm
  - http://startupbeat.hkej.com/
  - http://the-sun.on.cc/
  - https://health.hkej.com/health/home
- - http://www.passiontimes.hk/4.0/index.php
  - http://www.passiontimes.hk/4.0/category/1
  - http://www.inmediahk.net/
  - https://www.inmediahk.net/taxonomy/term/5034
@@ -2321,16 +1985,9 @@
  - https://www.krt.com.hk/
  - http://www.aastocks.com/
  - https://www.discuss.com.hk/
- - https://news.discuss.com.hk/forumdisplay.php?fid=193
- - https://news.discuss.com.hk/forumdisplay.php?fid=1230
  - https://news.discuss.com.hk/forumdisplay.php?fid=1136
- - https://news.discuss.com.hk/forumdisplay.php?fid=54
- - https://ladies.discuss.com.hk/forumdisplay.php?fid=450
  - https://news.discuss.com.hk/forumdisplay.php?fid=1121
- - https://news.discuss.com.hk/forumdisplay.php?fid=106
- - https://www.bastillepost.com/
  - https://www.bastillepost.com/hongkong/category/184819-%E6%B5%B7%E5%A4%96%E5%9C%B0%E7%94%A2
- - https://www.bastillepost.com/hongkong/category/138496-%E6%98%9F%E5%9C%B0%E7%94%A2?variant=zh-tw
  - https://www.bastillepost.com/hongkong/category/5-%E9%8C%A2%E8%B2%A1%E4%BA%8B?variant=zh-tw
  - https://www.bastillepost.com/hongkong/category/1-%E6%94%BF%E4%BA%8B?variant=zh-tw
  - https://www.bastillepost.com/hongkong/category/3-%E7%A4%BE%E6%9C%83%E4%BA%8B?variant=zh-tw
@@ -2373,11 +2030,9 @@
  - https://www.chinadaily.com.cn/china
  - http://spanish.xinhuanet.com/index.htm
  - http://www.xinhuanet.com/english/northamerica/2018/index.htm
- - http://www.xinhuanet.com/english/africa/2018/index.htm
  - http://www.xinhuanet.com/english/europe/2018/
  - http://www.xinhuanet.com/english/asiapacific/2018/index.htm
  - https://orientaldaily.on.cc/cnt/entertainment/index.html
- - http://www.wenweipo.com/
  - http://pdf.wenweipo.com/index.html
  - http://paper.wenweipo.com/
  - http://news.wenweipo.com/
@@ -2413,15 +2068,11 @@
  - https://ifunny.co/memes
  - https://ifunny.co/internet
  - https://ifunny.co/animals-nature
- - https://ifunny.co/anime-manga
  - https://ifunny.co/art-creative
  - https://ifunny.co/cars
  - https://ifunny.co/celebrities
  - https://ifunny.co/gaming/
- - https://ifunny.co/girls/
- - https://www.counterpunch.org/
  - http://techrights.org/?stories
- - https://wjla.com/
  - https://better.net/
  - https://www.muckrock.com/news/
  - https://www.androidguys.com/
@@ -2445,7 +2096,6 @@
  - https://www.climate.news/
  - https://www.cancer.news/
  - https://www.pollution.news/
- - https://www.herbs.news/
  - https://www.health.news/
  - https://www.naturalnewsradio.com/
  - TruthWiki.org
@@ -2509,7 +2159,6 @@
  - https://hn.algolia.com/?dateRange=last24h&page=0&prefix=false&query=&sort=byPopularity&type=story
  - https://search.yahoo.com/web?fr=yfp-t
  - https://www.pravdareport.com/
- - https://theihs.org/
  - wsbt.com
  - https://wsbt.com/news/regional
  - https://wsbt.com/news/local
@@ -2531,7 +2180,6 @@
  - https://www.healthcarefinancenews.com/
  - https://www.healthcarefinancenews.com/news
  - https://www.9news.com/
- - https://www.9news.com/local
  - https://www.telegraph.co.uk/on-this-day/
  - https://www.bostonmagazine.com/
  - https://www.cracked.com/
@@ -2545,12 +2193,8 @@
  - https://eurasiantimes.com/category/asia-pacific/
  - https://eurasiantimes.com/category/eurasian-region/
  - https://eurasiantimes.com/category/europe/
- - https://eurasiantimes.com/category/middle-east/
  - https://eurasiantimes.com/category/south-asia/
- - https://otherwords.org/
  - https://otherwords.org/peace-security/
- - https://otherwords.org/environment-health/
- - https://otherwords.org/economy-business/
  - https://otherwords.org/rights-democracy/
  - https://otherwords.org/food-farming/
  - https://www.pbs.org/
@@ -2618,9 +2262,6 @@
  - https://www.dailytelegraph.com.au/news/nsw
  - https://www.dailytelegraph.com.au/newslocal
  - https://www.dailytelegraph.com.au/sport
- - https://www.dailytelegraph.com.au/entertainment
- - https://www.dailytelegraph.com.au/opinion
- - https://www.dailytelegraph.com.au/business
  - https://www.dailytelegraph.com.au/education
  - https://www.dailytelegraph.com.au/real-estate
  - https://www.dailytelegraph.com.au/motoring
@@ -2755,52 +2396,13 @@
  - https://moms.donaldjtrump.com/
  - https://asians.donaldjtrump.com/
  - https://lawyers.donaldjtrump.com/
- - https://latterdaysaints.donaldjtrump.com/
  - https://polishamericans.donaldjtrump.com/
  - https://pride.donaldjtrump.com/
  - https://farmersandranchers.donaldjtrump.com/
  - https://truckers.donaldjtrump.com/
- - https://firefighters.donaldjtrump.com/
  - https://hinduvoices.donaldjtrump.com/
- - https://indianvoices.donaldjtrump.com/
- - https://italians.donaldjtrump.com/
- - https://germanamericans.donaldjtrump.com/
- - https://gunowners.donaldjtrump.com/
- - https://serbianamericans.donaldjtrump.com/
- - https://medicalprofessionals.donaldjtrump.com/
- - https://muslimvoices.donaldjtrump.com/
- - https://chaldeans.donaldjtrump.com/
- - https://sikhs.donaldjtrump.com/
- - https://albanians.donaldjtrump.com/
- - https://assyrians.donaldjtrump.com/
- - https://sportsmen.donaldjtrump.com/
- - https://ukrainianamericans.donaldjtrump.com/
- - https://digiday.com/
- - https://www.tumblr.com/explore/trending
- - https://citizensoftheamericanrepublic.org/
- - https://warroom.org/
- - https://www.nj.com/
- - https://www.nj.com/opinion/
- - https://www.nj.com/#news
- - https://www.nj.com/#life_and_culture
- - https://www.chron.com/
- - https://www.chron.com/news/politics/
- - https://www.chron.com/news
- - https://www.chron.com/news/houston-texas/
- - https://www.chron.com/news/nation-world/
- - https://www.chron.com/politics/houston/
- - https://www.chron.com/sports/
- - https://www.chron.com/business/
- - https://www.chron.com/entertainment/
- - https://www.chron.com/life/
- - https://www.houstonchronicle.com/
- - https://www.houstonchronicle.com/local/specialsections/
- - https://www.houstonchronicle.com/coronavirus/
- - https://www.houstonchronicle.com/local/
- - https://www.houstonchronicle.com/texas-sports-nation/
  - https://www.houstonchronicle.com/election2020/
  - https://www.houstonchronicle.com/local/weather/
- - https://www.houstonchronicle.com/business/
  - https://www.houstonchronicle.com/food-culture/
  - https://www.houstonchronicle.com/opinion/
  - https://www.newsbreak.com/
@@ -2817,7 +2419,6 @@
  - https://www.newsbreak.com/education
  - https://www.newsbreak.com/science
  - https://www.newsbreak.com/technology
- - https://www.newsbreak.com/us-news
  - https://www.newsbreak.com/world
  - https://toucharcade.com/
  - https://www.nationaljurist.com/breaking-news
@@ -2854,7 +2455,6 @@
  - https://www.lanacion.com.ar/opinion
  - https://www.lanacion.com.ar/deportes
  - https://www.lanacion.com.ar/lifestyle
- - https://www.lanacion.com.ar/sociedad
  - https://www.lanacion.com.ar/el-mundo
  - https://www.cityheaven.net/aomori/
  - https://www.cityheaven.net/okayama/
@@ -2879,57 +2479,10 @@
  - https://www.cityheaven.net/shizuoka/
  - https://www.cityheaven.net/gifu/
  - https://www.cityheaven.net/mie/
- - https://www.cityheaven.net/osaka/
- - https://www.cityheaven.net/hyogo/
- - https://www.cityheaven.net/shiga/
- - https://www.cityheaven.net/kyoto/
- - https://www.cityheaven.net/wakayama/
- - https://www.cityheaven.net/nara/
- - https://www.cityheaven.net/tochigi/
- - https://www.cityheaven.net/saitama/
- - https://www.cityheaven.net/ibaraki/
- - https://www.cityheaven.net/chiba/
- - https://www.cityheaven.net/kanagawa/
- - https://www.cityheaven.net/tokyo/
- - https://www.cityheaven.net/fukushima/
- - https://www.cityheaven.net/yamagata/
- - https://www.cityheaven.net/miyagi/
- - https://www.cityheaven.net/akita/
- - https://www.cityheaven.net/iwate/
- - https://www.cityheaven.net/hokkaido/
- - https://www.cityheaven.net/okinawa/
- - https://www.cityheaven.net/oita/
- - https://www.cityheaven.net/nagasaki/
- - https://www.cityheaven.net/fukuoka/
- - https://www.cityheaven.net/kochi/
- - https://coronavirus.jhu.edu/
- - https://ladailypost.com/
- - https://spacenews.com/
- - https://losalamosreporter.com/
- - https://spacenews.com/segment/opinion/
- - https://dcist.com/
- - https://nos.nl/
- - https://nos.nl/nieuws/binnenland/
- - https://nos.nl/nieuws/buitenland/
- - https://nos.nl/nieuws/regio/
- - https://nos.nl/nieuws/economie/
- - https://nos.nl/nieuws/politiek/
- - https://nos.nl/nieuws/koningshuis/
- - https://nos.nl/nieuws/tech/
- - https://nos.nl/nieuws/cultuur-en-media/
- - https://nos.nl/nieuws/opmerkelijk/
- - https://wikitia.com/wiki/Special:Random
- - https://uproxx.com/
- - https://fire.airnow.gov/
- - https://wasmoke.blogspot.com/
- - https://www.iqair.com/us/world-air-quality
- - https://www.middleeastmonitor.com/
- - https://www.middleeastmonitor.com/category/news-2/
  - https://www.middleeastmonitor.com/category/opinion-pieces/
  - AgeOfAutism.com
  - AmericaFirstProjects.com
  - AmericasFrontlineDoctorSummit.com
- - AmericanThinker.com
  - BB4SP.com
  - BeforeItsNews.com
  - BigLeaguePolitics.com
@@ -2941,7 +2494,6 @@
  - CharismaNews.com
  - ChildrensHealthDefense.org
  - ClashDaily.com
- - Collective-Evolution.com
  - ConservativeDailyPost.com
  - ConservativePost.com
  - ConservativeTreeHouse.com
@@ -3300,7 +2852,6 @@
  - wwltv.com
  - yournewsnet.com
  - https://soranews24.com/
- - https://knowledgefight.libsyn.com/
  - https://restofworld.org/
  - https://www.texastribune.org/
  - http://borderreport.com/
@@ -3332,18 +2883,13 @@
  - https://soj51.org/
  - https://www.gov.cn/
  - http://www.gov.cn/xinwen/index.htm
- - http://www.gov.cn/zhengce/zuixin.htm
  - http://big5.www.gov.cn/
  - https://www.newarkpostonline.com/
- - https://www.legacy.com/obituaries/local
  - https://news.google.com/search?q=coup&hl=en-US&gl=US&ceid=US%3Aen
  - https://www.lawfareblog.com/
  - https://www.lawfareblog.com/recent
  - https://www.thedrive.com/the-war-zone
- - https://www.lawfareblog.com/topic/foreign-policy-essay
- - https://www.kff.org/
  - https://khn.org/
- - https://www.virustotal.com/en/statistics/
  - https://verdict.valkyrie.comodo.com/
  - https://www.foxnews.com/elections/2020/general-results
  - https://www.rfi.fr/en/
@@ -3381,7 +2927,6 @@
  - https://www.rfi.ro/social
  - https://www.rfi.ro/mediu
  - https://www.rfi.ro/justitie
- - https://www.rfi.ro/stiinta
  - https://www.rfi.fr/ru/
  - https://www.rfi.fr/ru/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/
  - https://www.rfi.fr/ru/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F/
@@ -3453,15 +2998,11 @@
  - https://www.abqjournal.com/
  - https://www.abqjournal.com/opinion
  - https://www.newskarnataka.com/
- - https://www.cheatsheet.com/
  - https://answers.yahoo.com/
  - https://www.sacurrent.com/
  - https://www.crainscleveland.com/
- - https://securityreport.com/
  - https://www.searchenginejournal.com/
  - https://www.bizjournals.com/
- - https://www.trendmicro.com/vinfo/us/security/news/
- - https://informationsecurity.report/news.aspx
  - https://cyware.com/cyber-security-news-articles
  - https://thebusinessjournal.com/
  - https://thebusinessjournal.com/news/
@@ -3469,9 +3010,7 @@
  - https://thebusinessjournal.com/news/state/
  - https://thebusinessjournal.com/news/national/
  - https://businessjournaldaily.com/
- - https://businessjournaldaily.com/current-issue/
  - https://threatpost.com/
- - https://threatpost.com/category/cloud-security/
  - https://threatpost.com/category/malware-2/
  - https://threatpost.com/category/vulnerabilities/
  - https://www.scmagazine.com/home/security-news/
@@ -4385,7 +3924,6 @@
  - http://www.portlandtribune.com/
  - http://www.wweek.com/
  - http://www.portlandmercury.com/
- - http://www.healthforum.org/
  - http://www.times.org/
  - http://www.asianreporter.com/
  - http://www.portlandchinesetimes.us/
@@ -4442,18 +3980,10 @@
  - https://www.jurist.org/
  - https://www.justice.gov/news
  - https://coloradotimesrecorder.com/
- - https://coloradotimesrecorder.com/content/opinion/
  - https://www.mmtimes.com/
  - https://www.wonkette.com/
- - https://www.pewresearch.org/
- - https://www.pewresearch.org/fact-tank/
  - https://news.google.com/covid19/map
- - https://www.powerelectronicsnews.com/
  - https://www.theblockcrypto.com/
- - https://www.legallyindia.com
- - https://www.texasmonthly.com/
- - https://www.texasmonthly.com/news-politics/
- - https://www.cpubenchmark.net/power_performance.html
  - https://www.nbcnews.com/
  - https://www.huffingtonpost.com/
  - https://www.usatoday.com/
@@ -4549,7 +4079,6 @@
  - http://www.voanews.com/
  - https://www.wsj.com/
  - https://www.cbsnews.com/
- - https://www.cnn.com/
  - https://www.c-span.org/
  - https://www.nationsonline.org/oneworld/argentina.htm
  - http://www.batimes.com.ar/
@@ -4642,6 +4171,7 @@
  - http://www.hurriyet.com.tr/english/home/
  - https://www.nationsonline.org/oneworld/portugal.htm
  - https://www.dn.pt/
+ - https://www.dn.pt/opiniao.html
  - https://www.nationsonline.org/oneworld/map/google_map_Lisbon.htm
  - http://www.politico.eu/
  - http://www.afp.com/
@@ -4731,33 +4261,20 @@
  - http://www.dailypaul.com/
  - http://www.libertyontour.com/
  - http://antiwar.com/
- - http://cryptome.org/
- - http://www.wikileaks.org/
  - http://theeconomiccollapseblog.com/
  - http://www.wendymcelroy.com/
  - http://www.activistpost.com/
  - http://techdirt.com/
  - http://torrentfreak.com/
  - http://www.naturalnews.com/
- - http://www.fluoridealert.org/
- - http://www.constitutionpreservation.org/
  - http://informationclearinghouse.info/
- - http://www.911blogger.com/
- - http://www.911truth.org/
- - http://www.loosechange911.com/
- - http://www.ae911truth.org/
- - http://patriotsquestion911.com/
- - http://washingtonsblog.com/
- - http://www.corbettreport.com/
  - http://www.rawstory.com/
  - https://oathkeepers.org/
  - http://www.climatedepot.com/
  - http://wattsupwiththat.com/
  - http://www.thenewamerican.com/
- - http://fija.org/
  - http://tvnewslies.org/
  - http://eff.org/
- - http://bilderberg.org/
  - http://www.sandmountainreporter.com/
  - http://www.alexcityoutlook.com/
  - http://www.andalusiastarnews.com/
@@ -4844,7 +4361,6 @@
  - http://thedailysentinel.com/
  - http://www.theclarion.org/
  - http://www.selmatimesjournal.com/
- - http://www.lamarleader.com/
  - http://www.annistonstar.com/the_daily_home/
  - http://tallasseetribune.com/
  - http://www.thethomasvilletimes.com/
@@ -4912,18 +4428,12 @@
  - https://www.insidehighered.com/views
  - https://www.moodys.com/
  - https://www.cnbc.com/bonds-headlines/
- - https://www.billboard.com/charts/billboard-200
  - https://apnews.com/hub/election-2020
  - https://apnews.com/hub/elections
  - https://www.metrotimes.com/
  - https://www.metrotimes.com/detroit/news-and-views/Section?oid=2135207
  - https://warontherocks.com/
  - https://www.defensepriorities.org/
- - https://www.defensepriorities.org/newsletters
- - https://www.who.int/emergencies/crises/en/
- - https://www.who.int/emergencies/diseases/en/
- - https://www.who.int/news-room/releases
- - https://coronavirus.nautil.us/
  - https://www.poynter.org/media-news/
  - https://www.poynter.org/media-news/reporting-editing/
  - https://www.poynter.org/media-news/fact-checking/
@@ -4933,12 +4443,8 @@
  - https://www.google.com/search?&q=election&tbm=nws
  - https://www.niemanlab.org/
  - https://www.nationsonline.org/index.html
- - https://theobjective.substack.com/?no_cover=true
  - https://www.amediaoperator.com/?no_cover=true
  - https://www.doubledown.news/
- - https://j-source.ca/article/category/news/
- - https://cpj.org/news/
- - https://cpj.org/blog/
  - https://www.lifezette.com/
  - https://www.lifezette.com/category/politics/
  - https://www.lifezette.com/category/national-security/
@@ -4950,7 +4456,6 @@
  - https://www.lifezette.com/category/family/
  - https://www.whatfinger.com/
  - https://creativedestructionmedia.com/
- - https://americanactionnews.com/
  - https://theconservativetreehouse.com/
  - https://www.lifesitenews.com/
  - https://wattsupwiththat.com/
@@ -4964,7 +4469,6 @@
  - https://www.stripes.com/opinion
  - https://legalinsurrection.com/
  - https://www.billoreilly.com/motd
- - https://www.liveaction.org/news/
  - https://www.firstthings.com/
  - https://therightscoop.com/
  - https://www.washingtonexaminer.com/opinion
@@ -4984,9 +4488,6 @@
  - https://www.lifenews.com/
  - https://onenewsnow.com/
  - https://humanevents.com/
- - https://www.conservativenewsandviews.com/topics/news/
- - https://www.conservativenewsandviews.com/topics/clergy/
- - https://www.conservativenewsandviews.com/topics/constitution/
  - https://www.nytimes.com/live/2020/2020-election-misinformation-distortions
  - https://www.businessinsider.co.za/
  - https://businessinsider.com.pl/
@@ -5011,9 +4512,6 @@
  - https://twitter.com/exposedbycmd
  - https://www.prwatch.org/comments/recent
  - http://www.emergent.info/
- - https://medium.com/reportedly
- - https://www.bellingcat.com/
- - https://ru.bellingcat.com/
  - https://twitter.com/IGD_News
  - https://itsgoingdown.org/
  - https://firstdraftnews.org/the-briefing/
@@ -5072,7 +4570,6 @@
  - https://twitter.com/ElijahSchaffer
  - https://rollingout.com/
  - https://rollingout.com/category/news/
- - https://www.genocidewatch.com/latest-news
  - https://mississippitoday.org/
  - https://www.wapt.com/
  - https://www.wapt.com/local-news
@@ -5084,14 +4581,12 @@
  - https://www.world-today-news.com/category/news/
  - http://www.news.gov.tt/
  - https://www.medicineuncensored.com/
- - https://www.theverge.com/science
  - https://www.theverge.com/tech
  - https://www.jacksonville.com/
  - https://darpanmagazine.com/
  - https://www.jacksonville.com/opinion/
  - https://darpanmagazine.com/news/
  - https://www.theguardian.com/commentisfree/all
- - https://www.theguardian.com/profile/editorial
  - https://www.theguardian.com/index/contributors
  - https://www.theguardian.com/cartoons/archive
  - https://www.theguardian.com/tone/letters
@@ -5110,12 +4605,10 @@
  - https://www.theguardian.com/au/sport
  - https://www.theguardian.com/au/culture
  - https://www.theguardian.com/au/lifeandstyle
- - https://www.mongabay.com/
  - http://redgreenandblue.org/
  - https://scroll.in/
  - https://menafn.com/
  - https://scroll.in/latest/
- - https://skepticalscience.com/
  - https://www.law360.com/
  - https://www.law360.com/ip
  - https://www.law360.com/securities
@@ -5123,14 +4616,12 @@
  - https://www.law360.com/competition
  - https://www.law360.com/bankruptcy
  - https://www.law360.com/classaction
- - https://www.law360.com/internationalarbitration
  - https://www.law360.com/technology
  - https://www.law360.com/tax
  - https://www.law360.com/legalethics
  - https://www.law360.com/governmentcontracts
  - https://www.law360.com/trials
  - https://www.law360.com/environmental
- - https://www.law360.com/immigration
  - https://www.law360.co.uk/
  - https://www.law360.co.uk/financial-services-uk
  - https://www.law360.co.uk/corporate-crime-uk
@@ -5139,15 +4630,6 @@
  - https://www.youtube.com/c/turningpointusa/videos
  - https://www.cbc.ca/news/opinion
  - https://kitchener.ctvnews.ca/guelph
- - https://www.thelancet.com/journals/lancet/home
- - https://euvsdisinfo.eu/
- - https://euvsdisinfo.eu/news/
- - https://euvsdisinfo.eu/disinfo-review/
- - https://euvsdisinfo.eu/ru/
- - https://euvsdisinfo.eu/it/
- - https://euvsdisinfo.eu/es/
- - https://euvsdisinfo.eu/fr/
- - https://euvsdisinfo.eu/de/
  - https://www.google.com/search?q=hackers&tbm=nws
  - https://www.inquirer.net/
  - https://opinion.inquirer.net/
@@ -5162,7 +4644,6 @@
  - https://www.efe.com/efe/brasil/3
  - https://www.efe.com/efe/portugal/6
  - https://www.efe.com/efe/usa/5
- - https://quillette.com/
  - https://pulitzercenter.org/
  - https://newrepublic.com/apocalypse-soon
  - https://newrepublic.com/apocalypse-soon/tags/climate-change
@@ -5184,13 +4665,6 @@
  - https://www.bing.com/search?q=Second+American+Civil+War
  - https://www.bing.com/search?q=Climate+Change
  - https://www.bing.com/search?q=Global+Warmning
- - https://therealnews.com/category/sections/climate-crisis
- - https://therealnews.com/category/sections/economy-and-inequality
- - https://therealnews.com/category/sections/politics-and-movements-international
- - https://therealnews.com/category/sections/politics-movements-us
- - https://therealnews.com/category/sections/prisons-and-policing
- - https://therealnews.com/category/sections/racial-justice
- - https://therealnews.com/category/sections/baltimore
  - https://www.bing.com/news/search?q=news+for+you
  - https://www.bing.com/news/search?q=war
  - https://www.bing.com/news/search?q=civil+war
@@ -5200,22 +4674,18 @@
  - https://www.bing.com/news/search?q=Global+Warming
  - https://turnto10.com/
  - https://turnto10.com/news/local
- - https://turnto10.com/politics
  - https://turnto10.com/news/nation-world
  - https://lancasteronline.com/
- - https://www.lancasterfarming.com/
  - https://lancasteronline.com/lavoz/
  - https://www.wcvb.com/
  - https://tvnewscheck.com/
  - https://www.nexttv.com/broadcasting-cable
- - https://www.nexttv.com/broadcasting-cable/news
  - https://www.nbcnewyork.com/
  - https://www.nbcboston.com/
  - https://www.mcall.com/
  - https://www.mcall.com/news/local/
  - https://www.gamesindustry.biz/
  - https://junkee.com/
- - https://planet.kde.org/
  - https://www.covidexitstrategy.org/
  - https://www.timesonline.com/
  - https://twitter.com/MilitiaWatch
@@ -5226,45 +4696,23 @@
  - https://montgomeryadvertiser.com/
  - https://tuscaloosanews.com/
  - https://azcentral.com/
- - https://azcapitoltimes.com/
  - https://azcapitoltimes.com/arizona-legislative-report
- - https://pressargus.com/
- - https://boonevilledemocrat.com/
- - https://charlestonexpress.com/
  - https://swtimes.com/
- - https://hsvvoice.com/
- - https://paris-express.com/
  - https://baxterbulletin.com/
- - https://bcdemocratonline.com/
  - https://lajuntatribunedemocrat.com/
- - https://chieftain.com/thingstodo
- - https://agjournalonline.com/
  - https://coloradoan.com/
- - https://fowlertribune.com/
  - https://chieftain.com/
- - https://chieftain.com/pueblowestview
  - https://www.redding.com/
  - http://www.thecalifornian.com/
  - https://www.visaliatimesdelta.com/tulare/
  - https://www.visaliatimesdelta.com/
  - http://www.vcstar.com/
  - https://norwichbulletin.com/
- - https://hockessincommunitynews.com/
  - https://delawareonline.com/
- - https://doverpost.com/
- - https://milfordbeacon.com/
- - https://scsuntimes.com/
- - https://sussexcountian.com/
- - https://middletowntranscript.com/
- - https://crestviewbulletin.com/
  - https://dailycommercial.com/
  - https://news-journalonline.com/
- - https://nwfdailynews.com/military/eglin
  - https://floridatoday.com/
- - https://gainesville.com/news/guardian
  - https://heraldtribune.com/
- - https://chipleypaper.com/
- - https://nwfdailynews.com/military/hurlburt
  - https://tcpalm.com/news/indian-river-county
  - https://naplesnews.com/
  - https://newschief.com/
@@ -5273,10 +4721,8 @@
  - https://palmbeachdailynews.com/
  - https://newsherald.com/
  - https://pnj.com/
- - https://srpressgazette.com/
  - https://tcpalm.com/
  - https://tallahassee.com/
- - https://thedestinlog.com/
  - https://jacksonville.com/
  - https://gainesville.com/
  - https://theledger.com/
@@ -5284,29 +4730,14 @@
  - https://palmbeachpost.com/
  - https://staugustine.com/
  - https://tcpalm.com/news/st-lucie-county
- - https://starfl.com/
- - https://apalachtimes.com/
- - https://waltonsun.com/
  - https://onlineathens.com/
- - https://savannahnow.com/bryancountynow
- - https://savannahnow.com/effinghamnow
  - https://savannahnow.com/
- - https://augustachronicle.com/sylvaniatelephone
  - https://augustachronicle.com/
- - https://augustachronicle.com/newstimes
- - https://augustachronicle.com/hamptoncountyguardian
- - https://augustachronicle.com/thenewsandfarmer
- - https://idahobusinessreview.com/
- - https://eaglepublications.com/
- - https://chillicothetimesbulletin.com/
  - https://pontiacdailyleader.com/
  - https://cantondailyledger.com/
  - https://reviewatlas.com/
- - https://eastpeoriatimescourier.com/
- - https://geneseorepublic.com/
  - https://pjstar.com/
  - https://mcdonoughvoice.com/
- - https://mortontimesnews.com/
  - https://pekintimes.com/
  - https://rrstar.com/
  - https://starcourier.com/
@@ -5314,17 +4745,11 @@
  - https://journalstandard.com/
  - https://galesburg.com/
  - https://sj-r.com/
- - https://aledotimesrecord.com/
- - https://washingtontimesreporter.com/
- - https://woodfordtimes.com/
  - https://hoosiertimes.com/spencer_evening_world
  - https://indystar.com/
  - https://jconline.com/
- - https://hoosiertimes.com/reporter_times/mdt
  - https://pal-item.com/
- - https://hoosiertimes.com/paoli_news_republican
  - https://southbendtribune.com/
- - https://hoosiertimes.com/springs_valley_herald
  - https://courierpress.com/
  - https://hoosiertimes.com/herald_times_online
  - https://reporter-times.com/
@@ -5332,156 +4757,46 @@
  - https://tmnews.com/
  - https://amestrib.com/
  - https://newsrepublican.com/
- - https://adelnews.com/
- - https://hamburgreporter.com/
  - https://press-citizen.com/
- - https://nevadaiowajournal.com/
- - https://storycityherald.com/
  - https://desmoinesregister.com/
  - https://thehawkeye.com/
- - https://theperrychief.com/
- - https://tricountytimes.com/
- - https://butlercountytimesgazette.com/
- - https://sekvoice.com/
  - https://dodgeglobe.com/
  - https://gctelegram.com/
- - https://kiowacountysignal.com/
- - https://gctelegram.com/lasemana
  - https://mcphersonsentinel.com/
- - https://ottawaherald.com/
  - https://salina.com/
- - https://sjnewsonline.com/
- - https://ftleavenworthlamp.com/
  - https://hdnews.net/
  - https://hutchnews.com/
  - https://leavenworthtimes.com/
  - https://morningsun.net/
  - https://thekansan.com/
- - https://pratttribune.com/
  - https://cjonline.com/
- - https://wellingtondailynews.com/
  - https://courier-journal.com/
  - https://thegleaner.com/
  - https://cincinnati.com/news/northern-kentucky
- - https://beauregarddailynews.net/
- - https://dailycomet.com/
  - https://dailyworld.com/
- - https://weeklycitizen.com/
- - https://leesvilledailyleader.com/
- - https://postsouth.com/
  - https://shreveporttimes.com/
  - https://houmatoday.com/
  - https://theadvertiser.com/
- - https://donaldsonvillechief.com/
  - https://thenewsstar.com/
  - https://thetowntalk.com/
- - https://seacoastonline.com/yorkstar
- - https://seacoastonline.com/yorkweekly
  - https://delmarvanow.com/
  - https://thedailyrecord.com/
  - https://heraldmailmedia.com/
- - https://southcoasttoday.com/advocate
- - https://barnstablepatriot.com/
- - https://wickedlocal.com/bedford
- - https://wickedlocal.com/belmont
- - https://wickedlocal.com/billerica
- - https://linkbostonhomes.com/
- - https://wickedlocal.com/bourne
- - https://wickedlocal.com/braintree
- - https://wickedlocal.com/brookline
- - https://wickedlocal.com/natick, wickedlocal.com/framingham
- - https://wickedlocal.com/burlington
- - https://wickedlocal.com/cambridge
- - https://wickedlocal.com/gloucester
  - https://capecodtimes.com/
- - https://wickedlocal.com/carver
- - https://southcoasttoday.com/chronicle
- - https://wickedlocal.com/ipswich, wickedlocal.com/boxford, wickedlocal.com/middleton, wickedlocal.com/topsfield, wickedlocal.com/hamilton, wickedlocal.com/wenham
- - https://wickedlocal.com/cohasset
- - https://wickedlocal.com/bellingham
- - https://wickedlocal.com/wareham, wickedlocal.com/marion, wickedlocal.com/rochester, wickedlocal.com/mattapoisett
- - https://wickedlocal.com/littleton, wickedlocal.com/chelmsford, wickedlocal.com/westford
- - https://wickedlocal.com/beverly, wickedlocal.com/danvers
- - https://wickedlocal.com/hudson
- - https://wickedlocal.com/bridgewater, wickedlocal.com/raynham, wickedlocal.com/mansfield
- - https://wickedlocal.com/canton, wickedlocal.com/randolph, wickedlocal.com/stoughton, wickedlocal.com/holbrook
- - https://wickedlocal.com/kingston
- - https://leominsterchamp.com/
- - https://wickedlocal.com/lexington
- - https://wickedlocal.com/marblehead
- - https://wickedlocal.com/marlborough
- - https://wickedlocal.com/marshfield
  - https://marshfieldnewsherald.com/
- - https://masslawyersweekly.com/
- - https://wickedlocal.com/medford
- - https://wickedlocal.com/melrose
- - https://southcoasttoday.com/gazette
- - https://millburysutton.com/
- - https://ack.net/
- - https://wickedlocal.com/needham
- - https://wickedlocal.com/newton
- - https://wickedlocal.com/danvers
- - https://heraldnews.com/ojornal
- - https://wickedlocal.com/reading, wickedlocal.com/wakefield, wickedlocal.com/malden
- - https://wickedlocal.com/plymouth
  - https://patriotledger.com/
- - https://wickedlocal.com/pembroke
- - https://wickedlocal.com/georgetown, wickedlocal.com/northandover, wickedlocal.com/newburyport
- - https://rilawyersweekly.com/
- - https://wickedlocal.com/salem
- - https://wickedlocal.com/sandwich
- - https://wickedlocal.com/saugus
- - https://wickedlocal.com/scituate
- - https://wickedlocal.com/somerville
- - https://southcoasttoday.com/spectator
- - https://wickedlocal.com/woburn, wickedlocal.com/stoneham
- - https://wickedlocal.com/swampscott
  - https://tauntongazette.com/
- - https://wickedlocal.com/tewksbury
- - https://wickedlocal.com/arlington
- - https://wickedlocal.com/acton
- - https://wickedlocal.com/maynard
- - https://wickedlocal.com/falmouth
- - https://wickedlocal.com/orleans, wickedlocal.com/brewster, wickedlocal.com/chatham, wickedlocal.com/eastham, wickedlocal.com/harwich
- - https://wickedlocal.com/concord, wickedlocal.com/lincoln
  - https://enterprisenews.com/
  - https://thegardnernews.com/
- - https://thegraftonnews.com/
  - https://heraldnews.com/
- - https://wickedlocal.com/hingham
- - https://wickedlocal.com/clinton
- - https://thelandmark.com/
- - https://wickedlocal.com/abington, wickedlocal.com/rockland, wickedlocal.com/hanover, wickedlocal.com/norwell
  - https://metrowestdailynews.com/
  - https://milforddailynews.com/
- - https://wickedlocal.com/newburyport
- - https://wickedlocal.com/dover, wickedlocal.com/sherborn, wickedlocal.com/medfield
- - https://wickedlocal.com/provincetown
- - https://wickedlocal.com/yarmouth, wickedlocal.com/dennis
  - https://southcoasttoday.com/
- - https://wickedlocal.com/sudbury
- - https://wickedlocal.com/allston, wickedlocal.com/roslindale, wickedlocal.com/west-roxbury
- - https://wickedlocal.com/wayland
- - https://wickedlocal.com/wellesley
- - https://wickedlocal.com/weston
- - https://wickedlocal.com/winchester
- - https://wickedlocal.com/walpole, wickedlocal.com/sharon
- - https://wickedlocal.com/dedham, wickedlocal.com/westwood, wickedlocal.com/norwood
- - https://wickedlocal.com/hopkinton, wickedlocal.com/shrewsbury, wickedlocal.com/northborough, wickedlocal.com/southborough, wickedlocal.com/westborough
- - https://wickedlocal.com/waltham
- - https://wickedlocal.com/watertown
- - https://wickedlocal.com/weymouth
- - https://worcestermag.com/
  - https://telegram.com/
- - https://bedfordnow.com/
- - https://petoskeynews.com/charlevoix
  - https://cheboygannews.com/
- - https://petoskeynews.com/gaylord
  - https://hillsdale.net/
- - https://hometownlife.com/
  - https://lansingstatejournal.com/
  - https://livingstondaily.com/
- - https://milawyersweekly.com/
  - https://petoskeynews.com/
  - https://sentinel-standard.com/
  - https://sturgisjournal.com/
@@ -5489,29 +4804,19 @@
  - https://thedailyreporter.com/
  - https://lenconnect.com/
  - https://freep.com/
- - https://petoskeynews.com/cal
  - https://hollandsentinel.com/
  - https://monroenews.com/
  - https://sooeveningnews.com/
  - https://thetimesherald.com/
  - https://crookstontimes.com/
  - https://finance-commerce.com/
- - https://granitefallsnews.com/
- - https://minnlawyer.com/
- - https://montenews.com/
- - https://redwoodfallsgazette.com/
  - https://sctimes.com/
- - https://sleepyeyenews.com/
- - https://stjamesnews.com/
  - https://hattiesburgamerican.com/
  - https://clarionledger.com/
- - https://auroraadvertiser.net/
- - https://boonvilledailynews.com/
  - https://columbiatribune.com/
  - https://chillicothenews.com/
  - https://kirksvilledailyexpress.com/
  - https://lakenewsonline.com/
- - https://molawyersmedia.com/
  - https://moberlymonitor.com/
  - https://neoshodailynews.com/
  - https://therolladailynews.com/
@@ -5520,18 +4825,11 @@
  - https://molawyersmedia.com/news/st-louis-daily-record
  - https://molawyersmedia.com/news/kansas-city
  - https://examiner.net/
- - https://mlmcounties.com/
- - https://linncountyleader.com/
  - https://molawyersmedia.com/news/st-louis
  - https://greatfallstribune.com/
- - https://ncnewspress.com/
- - https://journaldemocrat.com/
  - https://rgj.com/
- - https://seacoastonline.com/exeternewsletter.com
  - https://fosters.com/
- - https://seacoastonline.com/hamptonunion.com
  - https://seacoastonline.com/
- - https://seacoastonline.com/portsmouthherald.com
  - https://app.com/
  - https://burlingtoncountytimes.com/
  - https://mycentraljersey.com/
@@ -5539,47 +4837,27 @@
  - https://thedailyjournal.com/
  - https://dailyrecord.com/
  - https://northjersey.com/
- - https://njbiz.com/
  - https://njherald.com/
  - https://alamogordonews.com/
  - https://currentargus.com/
  - https://demingheadlight.com/
  - https://lcsun-news.com/
- - https://ruidosonews.com/
  - https://scsun-news.com/
  - https://daily-times.com/
- - https://monroecopost.com/
  - https://mpnnow.com/
  - https://democratandchronicle.com/
- - https://dansvilleonline.com/
  - https://lohud.com/
- - https://libn.com/
- - https://uticaod.com/midyorkweekly
  - https://poughkeepsiejournal.com/
  - https://pressconnects.com/
- - https://rbj.net/
  - https://eveningtribune.com/
- - https://steubencourier.com/
- - https://chronicle-express.com/
  - https://nydailyrecord.com/
- - https://recordonline.com/community/port-jervis
  - https://ithacajournal.com/
  - https://the-leader.com/
- - https://monroecopost.com/henrietta
- - https://monroecopost.com/greece
- - https://monroecopost.com/webster
  - https://stargazette.com/
  - https://recordonline.com/
  - https://timestelegram.com/
  - https://uticaod.com/
- - https://monroecopost.com/victor
- - https://waynepost.com/
  - https://citizen-times.com/
- - https://cherrypointpost.com/
- - https://fayobserver.com/fortbragglife
- - https://havenews.com/
- - https://nclawyersweekly.com/
- - https://sclawyersweekly.com/
  - https://starnewsonline.com/
  - https://newbernsj.com/
  - https://courier-tribune.com/
@@ -5593,23 +4871,13 @@
  - https://blueridgenow.com/
  - https://devilslakejournal.com/
  - https://beaconjournal.com/
- - https://mytownneo.com/auroraadvocate
- - https://barnesville-enterprise.com/
  - https://chillicothegazette.com/
  - https://cincinnati.com/
- - https://mytownneo.com/fallsnewspress
- - https://mytownneo.com/hudsonhubtimes
  - https://lancastereaglegazette.com/
  - https://mansfieldnewsjournal.com/
  - https://newarkadvocate.com/
- - https://newcomerstown-news.com/
  - https://portclintonnewsherald.com/
- - https://mytownneo.com/the-news-leader
- - https://northneighbornews.com/
- - https://the-review.com/news/east-canton
  - https://record-courier.com/
- - https://mytownneo.com/stowsentry
- - https://mytownneo.com/tallmadgeexpress
  - https://bucyrustelegraphforum.com/
  - https://the-review.com/
  - https://dispatch.com/
@@ -5618,122 +4886,65 @@
  - https://the-daily-record.com/
  - https://indeonline.com/
  - https://marionstar.com/
- - https://the-review.com/news/minerva
  - https://thenews-messenger.com/
  - https://cantonrep.com/
- - https://thesuburbanite.com/
  - https://times-gazette.com/
  - https://timesreporter.com/
- - https://the-daily-record.com/calendar
- - https://thisweeknews.com/bexley
- - https://thisweeknews.com/canalwinchester
- - https://thisweeknews.com/clintonville
- - https://thisweeknews.com/delaware
- - https://thisweeknews.com/dublin
- - https://thisweeknews.com/germanvillage
- - https://thisweeknews.com/grandview
- - https://thisweeknews.com/grovecity
- - https://thisweeknews.com/hilliard
- - https://thisweeknews.com/newalbany
- - https://thisweeknews.com/northland
- - https://thisweeknews.com/northwest
- - https://thisweeknews.com/olentangy
- - https://thisweeknews.com/pickerington
- - https://thisweeknews.com/reynoldsburg
- - https://thisweeknews.com/gahanna
- - https://tthisweeknews.com/upperarlington
- - https://thisweeknews.com/westerville
- - https://thisweeknews.com/westside
- - https://thisweeknews.com/whitehall
- - https://thisweeknews.com/worthington
  - https://zanesvilletimesrecorder.com/
- - https://mytownneo.com/twinsburgbulletin
  - https://examiner-enterprise.com/
- - https://grandlakenews.com/
  - https://miamiok.com/
- - https://pawhuskajournalcapital.com/
  - https://ardmoreite.com/
  - https://journalrecord.com/
  - https://oklahoman.com/
  - https://news-star.com/
- - https://journalrecord.com/tinkertakeoff
  - https://statesmanjournal.com/
  - https://djcoregon.com/
  - https://registerguard.com/
  - https://timesonline.com/
  - https://buckscountycouriertimes.com/
- - https://cpbj.com/
  - https://publicopiniononline.com/
  - https://ellwoodcityledger.com/
  - https://goerie.com/
  - https://eveningsun.com/
  - https://ldnews.com/
- - https://lvb.com/
- - https://poconorecord.com/news/pikemonroe
  - https://poconorecord.com/
  - https://dailyamerican.com/
- - https://echo-pilot.com/
  - https://theintell.com/
  - https://therecordherald.com/
  - https://tricountyindependent.com/
  - https://ydr.com/
  - https://newportri.com/
  - https://providencejournal.com/
- - https://blufftontoday.com/
- - https://charlestonbusiness.com/
  - https://greenvilleonline.com/
- - https://blufftontoday.com/jaspersuntimes
  - https://goupstate.com/
  - https://independentmail.com/
- - https://augustachronicle.com/thepeoplesentinel
- - https://blufftontoday.com/the-sun-today
  - https://aberdeennews.com/
  - https://argusleader.com/
- - https://farmforum.net/
  - https://thepublicopinion.com/
  - https://columbiadailyherald.com/
  - https://knoxnews.com/
- - https://columbiadailyherald.com/theadvertisernews
  - https://commercialappeal.com/
  - https://dnj.com/
  - https://jacksonsun.com/
  - https://theleafchronicle.com/
  - https://oakridger.com/
  - https://tennessean.com/
- - https://alicetx.com/
  - https://amarillo.com/
- - https://amtrib.com/
  - https://statesman.com/
- - https://brownwoodtx.com/
  - https://caller.com/
- - https://yourglenrosetx.com/
  - https://gosanangelo.com/
- - https://statesman.com/community/lakeway-bee-cave
  - https://lubbockonline.com/
- - https://midlothianmirror.com/
- - https://recordstar.com/
- - https://statesman.com/community/pflugerville
- - https://prosperpressnews.com/
- - https://statesman.com/community/round-rock
- - https://runnelscountyregister.com/
  - https://heralddemocrat.com/
- - https://statesman.com/community/smithville
- - https://yourstephenvilletx.com/
  - https://reporternews.com/
  - https://elpasotimes.com/
  - https://timesrecordnews.com/
- - https://vanalstyneleader.com/
  - https://waxahachietx.com/
- - https://statesman.com/news/local/westlake-picayune
  - https://thespectrum.com/
  - https://burlingtonfreepress.com/
- - https://fortleetraveller.com/
  - https://newsleader.com/
  - https://progress-index.com/
- - https://valawyersweekly.com/
  - https://kitsapsun.com/
  - https://newstribune.info/
- - https://jacksonnewspapers.com/
  - https://fdlreporter.com/
  - https://greenbaypressgazette.com/
  - https://htrnews.com/
@@ -5743,6 +4954,198 @@
  - https://postcrescent.com/
  - https://sheboyganpress.com/
  - https://wausaudailyherald.com/
- - https://wislawjournal.com/
  - https://wisconsinrapidstribune.com/
  - https://guampdn.com/
+ - www.alloaadvertiser.com/
+ - www.andoveradvertiser.co.uk
+ - www.ardrossanherald.com/
+ - www.asianimage.co.uk
+ - www.autoexchange.co.uk
+ - www.ayradvertiser.com/
+ - www.banburycake.co.uk
+ - www.barrheadnews.com/
+ - www.barryanddistrictnews.co.uk
+ - www.basildonstandard.co.uk
+ - www.basingstokegazette.co.uk
+ - www.bicesteradvertiser.net/
+ - www.bordercountiesadvertizer.co.uk
+ - www.bordertelegraph.com/
+ - www.borehamwoodtimes.co.uk
+ - www.bournemouthecho.co.uk
+ - www.bracknellnews.co.uk
+ - www.thetelegraphandargus.co.uk
+ - www.braintreeandwithamtimes.co.uk
+ - www.brentwoodlive.co.uk
+ - www.bridgwatermercury.co.uk
+ - www.bridportnews.co.uk
+ - www.bromsgroveadvertiser.co.uk
+ - www.bucksfreepress.co.uk
+ - www.burnhamandhighbridgeweeklynews.co.uk
+ - www.burytimes.co.uk
+ - www.businessiqnortheast.co.uk
+ - www.campaignseries.co.uk
+ - www.carrickherald.com/
+ - www.centralfifetimes.com/
+ - www.chardandilminsternews.co.uk
+ - www.chelmsfordweeklynews.co.uk
+ - www.chesterstandard.co.uk
+ - www.chorleycitizen.co.uk
+ - www.clactonandfrintongazette.co.uk
+ - www.clydebankpost.co.uk
+ - www.cotswoldjournal.co.uk
+ - www.countytimes.co.uk
+ - www.cravenherald.co.uk
+ - www.cumnockchronicle.com/
+ - www.dailyecho.co.uk
+ - www.darlingtonandstocktontimes.co.uk
+ - www.denbighshirefreepress.co.uk
+ - www.dorsetbeaches.co.uk
+ - www.dorsetecho.co.uk
+ - www.droitwichadvertiser.co.uk
+ - www.dudleynews.co.uk
+ - www.dumbartonreporter.co.uk
+ - www.dunfermlinepress.com/
+ - www.ealingtimes.co.uk
+ - www.eastkilbrideconnect.co.uk
+ - www.guardian-series.co.uk
+ - www.eastlothiancourier.com/
+ - www.echo-news.co.uk
+ - www.enfieldindependent.co.uk
+ - www.eppingforestguardian.co.uk
+ - www.essexbusinessawards.co.uk
+ - www.essex-media.co.uk
+ - www.glasgowtimes.co.uk
+ - www.eveshamjournal.co.uk
+ - www.falmouthpacket.co.uk
+ - www.forestryjournal.co.uk
+ - www.freepressseries.co.uk
+ - www.gazetteandherald.co.uk
+ - www.gazetteseries.co.uk
+ - www.greenocktelegraph.co.uk
+ - www.halesowennews.co.uk
+ - www.halsteadgazette.co.uk
+ - www.hampshirechronicle.co.uk
+ - www.harrowtimes.co.uk
+ - www.harwichandmanningtreestandard.co.uk
+ - www.helensburghadvertiser.co.uk
+ - www.heraldseries.co.uk
+ - www.heraldscotland.com/
+ - www.herefordtimes.com/
+ - www.hexham-courant.co.uk
+ - www.hillingdontimes.co.uk
+ - www.ilkleygazette.co.uk
+ - www.impartialreporter.com/
+ - www.in-cumbria.com/
+ - www.irvinetimes.com/
+ - www.countypress.co.uk
+ - www.keighleynews.co.uk
+ - www.kidderminstershuttle.co.uk
+ - www.knutsfordguardian.co.uk
+ - www.lancashiretelegraph.co.uk
+ - www.thelancasterandmorecambecitizen.co.uk
+ - www.largsandmillportnews.com/
+ - www.ledburyreporter.co.uk
+ - www.leighjournal.co.uk
+ - www.localberkshire.co.uk
+ - www.ludlowadvertiser.co.uk
+ - www.maldonandburnhamstandard.co.uk
+ - www.malverngazette.co.uk
+ - www.messengernewspapers.co.uk
+ - www.milfordmercury.co.uk
+ - www.newforestpost.co.uk
+ - www.newsandstar.co.uk
+ - www.newsshopper.co.uk
+ - www.northwaleschronicle.co.uk
+ - www.northwalespioneer.co.uk
+ - www.northwichguardian.co.uk
+ - www.oxfordmail.co.uk
+ - www.peeblesshirenews.com/
+ - www.penarthtimes.co.uk
+ - www.prestwichandwhitefieldguide.co.uk
+ - www.readingchronicle.co.uk
+ - www.redditchadvertiser.co.uk
+ - www.redhillandreigatelife.co.uk
+ - www.rhyljournal.co.uk
+ - www.richmondandtwickenhamtimes.co.uk
+ - www.romseyadvertiser.co.uk
+ - www.windsorobserver.co.uk
+ - www.runcornandwidnesworld.co.uk
+ - www.salisburyjournal.co.uk
+ - www.sloughobserver.co.uk
+ - www.somersetcountygazette.co.uk
+ - www.southwalesargus.co.uk
+ - www.southwalesguardian.co.uk
+ - www.southwestfarmer.co.uk
+ - www.southendstandard.co.uk
+ - www.stalbansreview.co.uk
+ - www.sthelensstar.co.uk
+ - www.stirlingnews.co.uk
+ - www.stourbridgenews.co.uk
+ - www.strathallantimes.co.uk
+ - www.stroudnewsandjournal.co.uk
+ - www.surreycomet.co.uk
+ - www.swanageandwarehamvoice.co.uk
+ - www.swindonadvertiser.co.uk
+ - www.tewkesburyadmag.co.uk
+ - www.theargus.co.uk
+ - www.theboltonnews.co.uk
+ - www.leaderlive.co.uk
+ - www.nwemail.co.uk
+ - www.thenational.scot/
+ - www.thenorthernecho.co.uk
+ - www.northernfarmer.co.uk
+ - www.theoldhamtimes.co.uk
+ - www.thescottishfarmer.co.uk
+ - www.thewestmorlandgazette.co.uk
+ - www.thisislancashire.co.uk
+ - www.thisislocallondon.co.uk
+ - www.thisisthewestcountry.co.uk
+ - www.thisiswiltshire.co.uk
+ - www.thisisoxfordshire.co.uk
+ - www.thurrockgazette.co.uk
+ - www.timesandstar.co.uk
+ - www.times-series.co.uk
+ - www.tivysideadvertiser.co.uk
+ - www.thetottenhamindependent.co.uk
+ - www.troontimes.com/
+ - www.walesfarmer.co.uk
+ - www.wandsworthguardian.co.uk
+ - www.warringtonguardian.co.uk
+ - www.watfordobserver.co.uk
+ - www.wearevoice.co.uk
+ - www.westerntelegraph.co.uk
+ - www.wharfedaleobserver.co.uk
+ - www.whitchurchherald.co.uk
+ - www.whitehavennews.co.uk
+ - www.wiltsglosstandard.co.uk
+ - www.wiltshirebusinessonline.co.uk
+ - www.wiltshiretimes.co.uk
+ - www.wimbledonguardian.co.uk
+ - www.winsfordguardian.co.uk
+ - www.wirralglobe.co.uk
+ - www.witneygazette.co.uk
+ - www.worcesternews.co.uk
+ - www.yeovilexpress.co.uk
+ - www.yorkpress.co.uk
+ - www.yourlocalguardian.co.uk
+ - www.gazette-news.co.uk
+ - www.living-magazines.co.uk
+ - prime-magazine.co.uk
+ - www.gazetteherald.co.uk
+ - https://thebolditalic.com/
+ - https://pudding.cool/
+ - https://www.wesh.com/
+ - https://www.freepressjournal.in/
+ - https://www.freepressjournal.in/analysis
+ - https://www.freepressjournal.in/india
+ - https://www.freepressjournal.in/mumbai
+ - https://www.freepressjournal.in/pune
+ - https://www.freepressjournal.in/delhi
+ - https://www.freepressjournal.in/indore
+ - https://www.freepressjournal.in/bhopal
+ - https://www.freepressjournal.in/ujjain
+ - https://www.freepressjournal.in/world
+ - https://www.freepressjournal.in/business
+ - https://www.freepressjournal.in/entertainment
+ - https://www.freepressjournal.in/sports
+ - https://epaper.freepressjournal.in/
