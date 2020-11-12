@@ -36,3 +36,8 @@ ___
  - [Myanmar blocks website of rights group critical of Tatmadaw](https://archive.vn/HFnMi)
  - [EPA’s climate change website went down a year ago for ‘updating.’ It’s still not back](https://archive.vn/1zzSJ)
  - [The Proud Boys Are Looking For Love And Want To Know Your Bra Size](https://archive.vn/IGhjT)
+
+
+___
+**ISSUES**
+  - From Nov 7th to Nov 12th 2020 only 18% of the sites were able to be archived due to an upstream change
