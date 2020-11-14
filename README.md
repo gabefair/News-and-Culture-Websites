@@ -27,6 +27,7 @@ A more detailed dataset with tags and categories is available upon request.
 ___
 **ARCHIVES USED IN THE NEWS**
  - [National Archives Caught Editing Photo To Remove Anti-Trump Message](https://archive.vn/lRt2J)
+ - [Strategic National Stockpile description altered online after Kushner’s remarks](https://archive.vn/pMk7Z)
  - [A deleted voter story at a local Denver TV station has morphed into a monster](https://archive.vn/cekOk)
  - [InfoWars Publishes (and Swiftly Deletes) Video of Texas Congressman Masturbating](https://archive.vn/mmdQU)
  - [Long Island ‘lottery lawyer’ partnered with mob associates to cash in on clients’ winnings: feds](https://archive.vn/4sJoo)
@@ -44,7 +45,7 @@ ___
   
   
 ___
-**Donate**
+**DONATE**
   - Eth:  0xdfcd2c75b9b6c1D0596A6daAC7a856936341bBB1
   - Ltc:  MHNfhha4qXDHpyNELLcbeqMXKXZkCUBhEK
   - Xrp:  rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg
