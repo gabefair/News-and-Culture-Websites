@@ -37,6 +37,7 @@ ___
  - [Myanmar blocks website of rights group critical of Tatmadaw](https://archive.vn/HFnMi)
  - [EPA’s climate change website went down a year ago for ‘updating.’ It’s still not back](https://archive.vn/1zzSJ)
  - [The Proud Boys Are Looking For Love And Want To Know Your Bra Size](https://archive.vn/IGhjT)
+ - [NYT Quietly Edits Headline On Failed Coronavirus Deal To Protect Democrats — Twice](https://dailycaller.com/2020/03/23/nyt-edits-headline-coronavirus/)
 
 
 ___
@@ -45,9 +46,11 @@ ___
   
   
 ___
-**DONATE**
+**DONATE**†
   - Eth:  0xdfcd2c75b9b6c1D0596A6daAC7a856936341bBB1
   - Ltc:  MHNfhha4qXDHpyNELLcbeqMXKXZkCUBhEK
   - Xrp:  rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg
   - Algo: ARDKZUH77ZAOHGFSTMHSSY3VWHMAX3RCLBQP6EA5MOI5C5CNSR3PTF3IQ4
   - Btc: 14jpLg8GDCU7Kdvk5SPCvXUqJqGHFMpKMs
+___
+  †Any donated sum will be 80/20 split with upstream partners, as they are bearing most of the cost of this project
