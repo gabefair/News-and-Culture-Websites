@@ -4,8 +4,8 @@
 
    - It is impossible to know ahead of time what information (art, culture, music, history) might be banned. Glass-skinned people will find any arbitrary symbol or picture or knowledge offensive to their rule of power.
 	   
-     - Pictures of a yellow bear? Pictures of a certain flower? A picture of a politician holding hands with a family member?
-     - Also fake news or misinformation needs to be recorded, as to assist with answering questions like: 
+     - Childhood cartoons of an iconic yellow bear? Drawings of a certain flower? A picture of a politician holding hands with a family member?
+     - In addition, fake news or misinformation needs to be preserved, as to assist with answering questions like: 
      - "Who was the target of the misinformation campaign?", "How long did the psychological warfare last?", "What lies were manufactured?"
      - The sky's the limit on the number of answers that can be found by studying this archived information in the future.
 
