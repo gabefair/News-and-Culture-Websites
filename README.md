@@ -44,14 +44,3 @@ ___
 ___
 **ISSUES**
   - From Nov 7th to Nov 12th 2020 only 18% of the sites were able to be archived due to an upstream change
-  
-  
-___
-**DONATE**†
-  - Eth:  0xdfcd2c75b9b6c1D0596A6daAC7a856936341bBB1
-  - Ltc:  MHNfhha4qXDHpyNELLcbeqMXKXZkCUBhEK
-  - Xrp:  rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg
-  - Algo: ARDKZUH77ZAOHGFSTMHSSY3VWHMAX3RCLBQP6EA5MOI5C5CNSR3PTF3IQ4
-  - Btc: 14jpLg8GDCU7Kdvk5SPCvXUqJqGHFMpKMs
-___
-  †Any donated sum will be 80/20 split with upstream partners, as they are bearing most of the cost of this project
