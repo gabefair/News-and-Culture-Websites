@@ -1,4 +1,6 @@
- - **What**: Create a public record of news and culture sites.
+#### "Experts in authoritarianism advise to keep a list of things subtly changing around you, so you’ll remember." ~Amy Siskind 
+
+- **What**: Create a public record of news and culture sites.
 
  - **Why**: Any autocrat or fascist system of power will fight to remove any information that is inconvenient.
 
