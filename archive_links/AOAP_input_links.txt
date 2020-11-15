@@ -127,7 +127,6 @@ http://archive.today/?run=1&url=http://www.usnews.com/usnews/home.htm
 http://archive.today/?run=1&url=https://www.usatoday.com/opinion/
 http://archive.today/?run=1&url=http://www.vanityfair.com/
 http://archive.today/?run=1&url=http://www.variety.com/
-http://archive.today/?run=1&url=http://online.wsj.com/home-page
 http://archive.today/?run=1&url=http://www.washingtonpost.com/
 http://archive.today/?run=1&url=https://hongkongfp.com/
 http://archive.today/?run=1&url=https://www.democracynow.org/es
@@ -138,6 +137,8 @@ http://archive.today/?run=1&url=https://www.usatoday.com/news/nation/
 http://archive.today/?run=1&url=https://www.bostonherald.com/
 http://archive.today/?run=1&url=http://www.foxnews.com/category/media-buzz
 http://archive.today/?run=1&url=https://www.wsj.com/news/politics
+http://archive.today/?run=1&url=https://www.wsj.com/news/latest-headlines?mod=wsjheader
+http://archive.today/?run=1&url=http://online.wsj.com/home-page
 http://archive.today/?run=1&url=http://www.prnewswire.com/news-releases/news-releases-list/
 http://archive.today/?run=1&url=http://www.reuters.com/
 http://archive.today/?run=1&url=http://www.xinhuanet.com/english/world/index.htm
@@ -201,12 +202,12 @@ http://archive.today/?run=1&url=https://www.telegraph.co.uk/opinion/
 http://archive.today/?run=1&url=https://www.cbc.ca/
 http://archive.today/?run=1&url=https://www.nationalenquirer.com/
 http://archive.today/?run=1&url=https://www.cnet.com/news/
+http://archive.today/?run=1&url=https://www.afr.com/
 http://archive.today/?run=1&url=https://www.reddit.com/domain/arstechnica.com/
 http://archive.today/?run=1&url=https://www.reddit.com/domain/charlotteobserver.com/
 http://archive.today/?run=1&url=https://www.clemson.edu/webcams/
 http://archive.today/?run=1&url=https://www.reddit.com/r/spacex/
 http://archive.today/?run=1&url=https://www.weibo.com/
-http://archive.today/?run=1&url=https://www.abacusnews.com/china-tech-city
 http://archive.today/?run=1&url=https://www.abacusnews.com/
 http://archive.today/?run=1&url=https://www.reddit.com/r/politics/gilded/
 http://archive.today/?run=1&url=https://www.baltimoresun.com/
@@ -219,17 +220,6 @@ http://archive.today/?run=1&url=https://www.marketwatch.com/retirement?mod=top_n
 http://archive.today/?run=1&url=https://www.marketwatch.com/economy-politics?mod=top_nav
 http://archive.today/?run=1&url=https://www.marketwatch.com/personal-finance?mod=top_nav
 http://archive.today/?run=1&url=https://www.marketwatch.com/investing/barrons?mod=top_nav
-http://archive.today/?run=1&url=https://boards.4channel.org/k/
-http://archive.today/?run=1&url=https://boards.4channel.org/g/
-http://archive.today/?run=1&url=https://boards.4chan.org/r/
-http://archive.today/?run=1&url=https://boards.4chan.org/t/
-http://archive.today/?run=1&url=https://boards.4chan.org/bant/
-http://archive.today/?run=1&url=https://boards.4channel.org/biz/
-http://archive.today/?run=1&url=https://boards.4channel.org/his/
-http://archive.today/?run=1&url=https://boards.4channel.org/lit/
-http://archive.today/?run=1&url=https://boards.4channel.org/wsr/
-http://archive.today/?run=1&url=https://boards.4chan.org/pol/
-http://archive.today/?run=1&url=https://boards.4chan.org/pol/catalog
 http://archive.today/?run=1&url=https://www.producthunt.com/
 http://archive.today/?run=1&url=https://slashdot.org/
 http://archive.today/?run=1&url=https://www.reddit.com/r/conspiracytheories/
@@ -357,8 +347,6 @@ http://archive.today/?run=1&url=https://www.techdirt.com/
 http://archive.today/?run=1&url=https://www.techdirt.com/blog/greenhouse/
 http://archive.today/?run=1&url=https://www.techdirt.com/blog/freespeech/
 http://archive.today/?run=1&url=https://www.indiatimes.com/trending/jugaad
-http://archive.today/?run=1&url=https://www.opensecrets.org/news/
-http://archive.today/?run=1&url=https://www.greenpeace.org/global/
 http://archive.today/?run=1&url=https://www.c-span.org/congress/
 http://archive.today/?run=1&url=https://www.c-span.org/executiveBranch/
 http://archive.today/?run=1&url=https://www.c-span.org/supremeCourt/
@@ -440,8 +428,6 @@ http://archive.today/?run=1&url=https://chinadigitaltimes.net/china-news/main/ho
 http://archive.today/?run=1&url=https://chinadigitaltimes.net/china-news/main/taiwan/
 http://archive.today/?run=1&url=https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 http://archive.today/?run=1&url=https://www.web24.news/topics/breaking-news
-http://archive.today/?run=1&url=https://inside.com/lists/streaming/recent_issues
-http://archive.today/?run=1&url=https://inside.com/lists/business/recent_issues
 http://archive.today/?run=1&url=http://www.laizquierdadiario.mx/Mexico
 http://archive.today/?run=1&url=http://www.izquierdadiario.es/ES
 http://archive.today/?run=1&url=https://www.esquerradiari.cat/
@@ -457,7 +443,6 @@ http://archive.today/?run=1&url=https://asiatimes.com/tag/politics/
 http://archive.today/?run=1&url=https://www.eenews.net/
 http://archive.today/?run=1&url=https://www.eenews.net/ew
 http://archive.today/?run=1&url=https://www.singpao.com.hk/index.php?fi=news8
-http://archive.today/?run=1&url=https://www.metrodaily.hk/%E8%B2%A1%E7%B6%93/
 http://archive.today/?run=1&url=http://www.takungpao.com/
 http://archive.today/?run=1&url=http://www.dili360.com/
 http://archive.today/?run=1&url=https://www.nfcmag.com/category/17.html
@@ -469,7 +454,6 @@ http://archive.today/?run=1&url=https://www.nfcmag.com/category/39.html
 http://archive.today/?run=1&url=https://www.nfcmag.com/category/4.html
 http://archive.today/?run=1&url=http://zk.nfcmag.com/China/index
 http://archive.today/?run=1&url=https://hk.appledaily.com/
-http://archive.today/?run=1&url=https://hk.appledaily.com/realtime/topUS/
 http://archive.today/?run=1&url=https://hk.appledaily.com/free/investman
 http://archive.today/?run=1&url=https://hk.appledaily.com/column/index
 http://archive.today/?run=1&url=https://hk.appledaily.com/realtime/us/
@@ -512,9 +496,6 @@ http://archive.today/?run=1&url=https://www.reddit.com/r/videos/gilded/
 http://archive.today/?run=1&url=https://thefederal.com/
 http://archive.today/?run=1&url=https://thefederal.com/news/
 http://archive.today/?run=1&url=https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNWpoZxIiUEwzWlE1Q3BOdWxRbUtPUDNJekdsYWN0V1c4dklYX0hFUA%3D%3D
-http://archive.today/?run=1&url=https://ifunny.co/memes
-http://archive.today/?run=1&url=https://ifunny.co/internet
-http://archive.today/?run=1&url=https://ifunny.co/animals-nature
 http://archive.today/?run=1&url=https://techxplore.com/
 http://archive.today/?run=1&url=https://trends.gab.com/
 http://archive.today/?run=1&url=https://www.pravdareport.com/
@@ -534,7 +515,6 @@ http://archive.today/?run=1&url=https://meduza.io/shapito
 http://archive.today/?run=1&url=https://eksisozluk.com/
 http://archive.today/?run=1&url=https://www.medscape.com/
 http://archive.today/?run=1&url=https://deutsch.medscape.com/
-http://archive.today/?run=1&url=https://www.cityheaven.net/nagano/
 http://archive.today/?run=1&url=https://www.texastribune.org/
 http://archive.today/?run=1&url=https://yandex.ru/
 http://archive.today/?run=1&url=https://yandex.com/news
@@ -574,7 +554,6 @@ http://archive.today/?run=1&url=https://elitedaily.com/
 http://archive.today/?run=1&url=https://www.bbc.com/
 http://archive.today/?run=1&url=https://www.msn.com/en-us/news
 http://archive.today/?run=1&url=https://nypost.com/
-http://archive.today/?run=1&url=https://www.slate.com/
 http://archive.today/?run=1&url=https://www.telegraph.co.uk/
 http://archive.today/?run=1&url=https://www.usnews.com/
 http://archive.today/?run=1&url=https://gawker.com/
@@ -583,6 +562,8 @@ http://archive.today/?run=1&url=https://www.independent.co.uk/
 http://archive.today/?run=1&url=https://www.freep.com/
 http://archive.today/?run=1&url=https://www.boston.com/
 http://archive.today/?run=1&url=https://www.al.com/
+http://archive.today/?run=1&url=http://www.smh.com.au/
+http://archive.today/?run=1&url=https://www.smh.com.au/world
 http://archive.today/?run=1&url=https://www.dw.com/
 http://archive.today/?run=1&url=https://our.news/publisher/?url=cnn.com&ffi=1
 http://archive.today/?run=1&url=https://our.news/publisher/?url=foxnews.com&ffi=1
@@ -604,3 +585,11 @@ http://archive.today/?run=1&url=https://www.businessinsider.com.au/
 http://archive.today/?run=1&url=https://www.businessinsider.jp/
 http://archive.today/?run=1&url=https://www.businessinsider.nl/
 http://archive.today/?run=1&url=http://www.emergent.info/
+http://archive.today/?run=1&url=https://projects.fivethirtyeight.com/polls/president-general/national/
+http://archive.today/?run=1&url=https://fivethirtyeight.com/live-blog/trump-biden-votes/
+http://archive.today/?run=1&url=https://www.bitchute.com/
+http://archive.today/?run=1&url=https://www.bitchute.com/category/news/
+http://archive.today/?run=1&url=https://www.bitchute.com/category/education/
+http://archive.today/?run=1&url=https://www.nbcnews.com/latest-stories/
+http://archive.today/?run=1&url=https://www.ouest-france.fr/
+http://archive.today/?run=1&url=https://www.ouest-france.fr/actualite-en-continu/
