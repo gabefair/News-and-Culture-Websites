@@ -2,7 +2,7 @@ import sys, os, subprocess, time, random
 
 BROWSER_PATH = ""
 
-def launchOpera(links_string):
+def launchBrowser(links_string):
     command = []
     command.append(BROWSER_PATH)
     subprocess.run(command + links_string)
@@ -33,7 +33,7 @@ def process_links(list_of_links):
         #links_string = " ".join(links).strip()
         links_string = links
         print(str(index) + " of " + str(len(list_of_links)) + " at: "+ str(links_string))
-        launchOpera(links_string)
+        launchBrowser(links_string)
 
 def main():
     global BROWSER_PATH
