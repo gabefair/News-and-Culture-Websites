@@ -11,9 +11,7 @@
      - "Who was the target of the misinformation campaign?", "How long did the psychological warfare last?", "What lies were manufactured?"
      - The sky's the limit on the number of answers that can be found by studying this archived information in the future.
 
- - **How**: Raspberry Pi's have been covertly placed in public wifi spots across the country. 
-           These devices will visit and archive the sites listed.
-           The archive is hosted at archive.is and archive.today and eventually at archive.org.
+ - **How**: Simply visit https://unclegrape.com and click the "save" button
 	   
  - **Where**: Did this list of links come from? It has been continuously hand crafted by me. So it is prone to biases and accidental omissions
 
