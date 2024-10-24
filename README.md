@@ -22,7 +22,7 @@
 
  - **Who can help?**: You can! Add sites you find to be important to the list and help future researchers remember the past! Add sites in any language, as facism is growing worldwide. If you are willing to run a small VM, this can assist with the effort by helping circumnavigate any google captchas.	
 			   
- - **Are some of the links NSFW?**: Yes, few sites in the list are included because they have had cultural, political, or historical significance. For example the world news subreddit "r/anime_titties" which despite the name, features world news and politics.
+ - **Are some of the links NSFW?**: Some of the links are, but they won't come up in the automated scripts. A few sites in the list are included because they have had cultural, political, or historical significance. For example the world news subreddit "r/anime_titties" which despite the name, features world news and politics.
 
 A more detailed dataset with tags and categories is available upon request.
 
