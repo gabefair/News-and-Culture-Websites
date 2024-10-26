@@ -11,7 +11,7 @@
      - "Who was the target of the misinformation campaign?", "How long did the psychological warfare last?", "What lies were manufactured?"
      - The sky's the limit on the number of answers that can be found by studying this archived information in the future.
 
- - **How**: Simply visit https://unclegrape.com and click the "save" button. ⭐ Its that easy ⭐
+ - **How**: Simply visit https://unclegrape.com and click the "save" button. ⭐ Its that easy! ⭐
 	   
  - **Where**: Did this list of links come from? It has been continuously hand crafted by me. So it is prone to biases and accidental omissions
 
