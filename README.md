@@ -36,7 +36,7 @@ ___
  - [Myanmar blocks website of rights group critical of Tatmadaw](https://archive.vn/HFnMi)
  - [EPA’s climate change website went down a year ago for ‘updating.’ It’s still not back](https://archive.vn/1zzSJ)
  - [The Proud Boys Are Looking For Love And Want To Know Your Bra Size](https://archive.vn/IGhjT)
- - [NYT Quietly Edits Headline On Failed Coronavirus Deal To Protect Democrats — Twice](https://dailycaller.com/2020/03/23/nyt-edits-headline-coronavirus/)
+ - [NYT Quietly Edits Headline On Failed Coronavirus Deal To Protect Democrats — Twice](https://archive.is/Yxwa6)
  - [Dominic Cummings edited an old blog to add a reference to coronaviruses](https://archive.vn/9ddQM)
  - [India blocks Internet Archive’s Wayback Machine](https://archive.vn/5UZxY)
  - [OAN deletes articles about Dominion election conspiracy theories](https://archive.vn/eBTOE)
