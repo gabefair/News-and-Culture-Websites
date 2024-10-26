@@ -1,6 +1,7 @@
 #### "Experts in authoritarianism advise to keep a list of things subtly changing around you, so you’ll remember." ~Amy Siskind 
 
 - **What**: Create a public record of news and culture sites.
+- **How**: Simply visit https://unclegrape.com and click the "save" button. ⭐ Its that easy! ⭐
 
  - **Why**: Any autocrat or fascist system of power will fight to remove any information that is inconvenient.
 
@@ -10,8 +11,6 @@
      - In addition, fake news or misinformation needs to be preserved, as to assist with answering questions like: 
      - "Who was the target of the misinformation campaign?", "How long did the psychological warfare last?", "What lies were manufactured?"
      - The sky's the limit on the number of answers that can be found by studying this archived information in the future.
-
- - **How**: Simply visit https://unclegrape.com and click the "save" button. ⭐ Its that easy! ⭐
 	   
  - **Where**: Did this list of links come from? It has been continuously hand crafted by me. So it is prone to biases and accidental omissions
 
