@@ -1,7 +1,7 @@
 #### "Experts in authoritarianism advise to keep a list of things subtly changing around you, so you’ll remember." ~Amy Siskind 
 
 - **What**: Create a public record of news and culture sites.
-- **How**: Simply visit https://unclegrape.com and click the "save" button. ⭐ Its that easy! ⭐ (You can close out of the window after it's added to the queue)
+- **How**: Simply visit https://unclegrape.com and **click the "save" button**. ⭐ Its that easy! ⭐ (*You can close out of the window after it's added to the queue*)
 
  - **Why**: Any autocrat or fascist system of power will fight to remove any information that is inconvenient.
 
