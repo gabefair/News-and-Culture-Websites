@@ -40,6 +40,7 @@ ___
  - [Dominic Cummings edited an old blog to add a reference to coronaviruses](https://archive.vn/9ddQM)
  - [India blocks Internet Archive’s Wayback Machine](https://archive.vn/5UZxY)
  - [OAN deletes articles about Dominion election conspiracy theories](https://archive.vn/eBTOE)
+ - [State Department will delete X posts from before Trump returned to office](https://www.npr.org/2026/02/07/nx-s1-5704785/state-department-trump-posts-x)
 
 ___
 **ISSUES**
